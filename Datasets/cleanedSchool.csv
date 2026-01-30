@@ -1,0 +1,436 @@
+,ids,bday,enrolldate,expgradate,Rank,Major,Gender,Athlete,Height,Weight,Smoking,Sprint,MileMinDur,English,Reading,Math,Writing,State,LiveOnCampus,HowCommute,CommuteTime,SleepTime,StudyTime
+0,43783,3/22/1995,1.0,1.0,0.0,0.0,Male,Non-athlete,1.8376899999999998,0.45359290943563974,Nonsmoker,7.978,1.0,88.24,81.5,60.02,81.44,In state,on-campus,Walk,1.0,7.0,1.0
+1,20278,1/1/1995,1.0,1.0,0.0,Philosophy,Male,Non-athlete,1.7947639999999998,81.28384937086663,Nonsmoker,8.004,0:06:21,89.45,85.25,70.19,73.27,1.0,on-campus,Walk,1.0,5.0,2.0
+2,20389,12/31/1994,1.0,1.0,0.0,0.0,Male,Non-athlete,1.7952720000000002,90.0472643811632,Nonsmoker,1.0,0:07:00,96.73,86.88,71.2,84.24,In state,on-campus,Walk,1.0,8.0,7.0
+3,22820,12/1/1994,1.0,1.0,0.0,business administration,Female,Non-athlete,0.0254,89.96561765746479,3.0,8.473,0:12:44,74.06,88.68,55.89,73.16,In state,on-campus,Walk,1.0,2.0,6.0
+4,24559,11/10/1994,1.0,1.0,0.0,0.0,Female,Athlete,1.712722,58.13700320236594,Currentsmoker,1.0,0:06:25,82.61,77.3,65.52,80.45,Out of state,on-campus,Walk,1.0,7.0,3.0
+5,28980,9/17/1994,1.0,1.0,0.0,astrophysics,Male,Athlete,1.73863,77.84107918825015,Nonsmoker,4.65,0:07:24,70.1,1.0,61.4,77.48,In state,on-campus,Walk,1.0,8.0,3.0
+6,33312,7/27/1994,1.0,1.0,0.0,Anthropology,Male,Athlete,1.741424,74.3710934310675,Nonsmoker,4.75,0:05:47,78.98,87.53,76.71,70.79,In state,on-campus,Walk,1.0,9.0,9.0
+7,40274,5/3/1994,1.0,1.0,0.0,American History,Male,Athlete,1.8265139999999997,101.09225172592103,Nonsmoker,1.0,0:05:40,1.0,67.31,58.64,65.89,In state,off-campus,Walk,1.0,8.0,3.0
+8,40390,4/30/1994,1.0,1.0,0.0,Africana studies,Female,Athlete,1.748536,70.17082308969346,Nonsmoker,6.279,0:06:51,75.65,76.54,51.14,75.94,In state,off-campus,Car,26.0,1.0,3.0
+9,28942,9/17/1993,1.0,1.0,0.0,0.0,Female,Athlete,1.6939259999999998,81.90527165679346,Nonsmoker,6.076,0:06:37,68.27,93.88,55.2,78.18,Out of state,on-campus,Walk,13.0,2.0,15.0
+10,29045,9/17/1993,1.0,1.0,0.0,French,Male,Non-athlete,1.781048,74.65685696401195,Nonsmoker,8.498,0:09:22,86.0,91.34,64.41,71.02,Out of state,off-campus,Car,20.0,1.0,6.0
+11,35676,6/27/1993,1.0,1.0,0.0,history,Female,Athlete,1.6995139999999997,80.68964265950595,3.0,1.0,0:06:36,79.94,76.74,62.53,84.78,In state,on-campus,Walk,1.0,4.0,0.0
+12,38764,5/22/1993,1.0,1.0,0.0,0.0,Male,Athlete,1.6563339999999998,63.48032767551778,Nonsmoker,4.661,0:06:17,101.95,74.45,66.8,88.5,In state,off-campus,Car,29.0,4.0,2.0
+13,39796,5/8/1993,1.0,1.0,0.0,0.0,Female,Non-athlete,1.8376899999999998,104.44883925574477,Currentsmoker,7.312,0:09:05,88.97,86.53,52.48,81.21,Out of state,off-campus,Car,38.0,4.0,2.0
+14,41092,4/23/1993,1.0,1.0,0.0,"engineering,undecided",Male,Non-athlete,1.7048480000000001,118.80505483938276,Nonsmoker,7.113,0:10:26,91.79,84.44,66.76,88.03,In state,on-campus,Walk,1.0,4.0,11.0
+15,43344,3/26/1993,1.0,1.0,0.0,Fine Arts (Painting),Male,Non-athlete,0.0254,60.18724315301504,pastsmoker,7.443,0:08:19,70.42,85.29,57.95,79.22,In state,on-campus,Walk,1.0,9.0,1.0
+16,49688,1/8/1993,1.0,1.0,0.0,education,Male,Non-athlete,2.0065999999999997,0.45359290943563974,Nonsmoker,1.0,0:06:46,97.23,1.0,67.72,84.35,In state,on-campus,Walk,1.0,13.0,1.0
+17,37701,6/2/1992,1.0,1.0,0.0,0.0,Female,Athlete,1.6032479999999998,0.45359290943563974,Currentsmoker,6.499,0:06:53,85.71,78.06,66.83,82.99,In state,on-campus,Walk,1.0,6.0,1.0
+18,44116,3/16/1992,1.0,1.0,0.0,Exorcise Science,Female,Non-athlete,1.75895,83.31594560513831,3.0,1.0,0:08:14,82.99,74.41,61.4,81.12,In state,on-campus,Walk,1.0,5.0,15.0
+19,25871,10/26/1991,1.0,1.0,0.0,saxophone,Male,Athlete,0.0254,67.5036967822119,Nonsmoker,4.524,0:06:11,83.95,74.02,74.92,64.06,In state,off-campus,Car,27.0,4.0,1.0
+20,26154,10/22/1991,1.0,1.0,0.0,mathematics,Female,Non-athlete,1.49352,58.3910152316499,Nonsmoker,6.737,0:08:17,74.88,79.61,51.3,79.64,In state,off-campus,Walk,21.0,2.0,7.0
+21,41291,4/21/1991,1.0,1.0,0.0,0.0,Male,Athlete,1.8204179999999999,93.26777403815625,Nonsmoker,4.89,0:06:34,84.67,79.64,60.85,76.77,Out of state,off-campus,Car,24.0,9.0,6.0
+22,46752,2/13/1991,1.0,1.0,0.0,Education Administration,Female,Non-athlete,1.573276,81.48343025101832,Currentsmoker,7.013,0:08:29,99.51,95.81,68.91,84.19,In state,on-campus,Walk,1.0,3.0,9.0
+23,20183,1/3/1991,1.0,1.0,0.0,Creative writing,Male,Non-athlete,1.699768,87.36653028639857,Nonsmoker,7.407,0:07:47,83.3,82.98,68.82,75.49,In state,off-campus,Car,34.0,6.0,5.0
+24,23643,11/22/1990,1.0,1.0,0.0,0.0,Male,Athlete,0.0254,0.45359290943563974,Nonsmoker,1.0,1.0,80.86,75.15,75.69,81.12,1.0,off-campus,Car,33.0,5.0,6.0
+25,40303,5/2/1990,1.0,1.0,0.0,0.0,Female,Non-athlete,1.513586,84.54971831880324,Nonsmoker,1.0,1.0,84.67,87.04,73.94,87.61,1.0,off-campus,Car,20.0,3.0,4.0
+26,27496,10/6/1988,1.0,1.0,0.0,0.0,Female,Non-athlete,1.7147540000000001,114.03779336121418,Nonsmoker,7.035,0:07:37,74.85,70.41,65.51,83.06,In state,off-campus,Bike,10.0,3.0,11.0
+27,26582,1.0,1.0,1.0,0.0,Journalism,Male,Athlete,1.8722339999999997,89.39862652067023,Nonsmoker,4.749,0:05:19,85.67,67.62,53.06,77.68,1.0,on-campus,Walk,1.0,3.0,12.0
+28,46919,1.0,1.0,1.0,0.0,0.0,Female,Athlete,1.835404,75.31456668269362,Nonsmoker,5.381,1.0,82.56,77.19,60.73,83.54,In state,off-campus,Car,21.0,3.0,6.0
+29,20230,1/2/1996,4-Aug-2014,11-May-2020,1.0,pre-pharma,Male,Athlete,2.0347939999999998,0.45359290943563974,Nonsmoker,5.203,0:07:34,81.6,75.6,65.36,76.07,In state,on-campus,Walk,1.0,8.0,3.0
+30,21083,12/22/1995,4-Aug-2014,11-May-2020,1.0,0.0,Female,Non-athlete,1.8300699999999999,106.43104026997851,Nonsmoker,6.746,0:07:06,78.85,86.92,68.53,71.42,In state,off-campus,Car,26.0,5.0,3.0
+31,21939,12/12/1995,4-Aug-2014,11-May-2020,1.0,0.0,Male,Athlete,1.6786860000000001,0.45359290943563974,Nonsmoker,5.326,0:07:28,87.7,81.1,61.61,1.0,In state,off-campus,Car,39.0,6.0,5.0
+32,23017,11/29/1995,4-Aug-2014,11-May-2020,1.0,0.0,Other,Non-athlete,1.821688,101.86335967196162,Nonsmoker,7.638,0:05:55,76.63,84.19,65.25,72.61,In state,off-campus,Bike,8.0,8.0,4.0
+33,23217,11/26/1995,4-Aug-2014,13-May-2019,1.0,Pre Med,Male,Non-athlete,1.8138139999999998,101.61388357177202,Nonsmoker,6.475,0:06:03,75.2,81.54,66.66,85.38,In state,off-campus,Car,31.0,5.0,5.0
+34,23889,11/18/1995,4-Aug-2014,13-May-2019,1.0,communication,Male,Athlete,1.785366,79.60101967686042,Nonsmoker,4.593,0:05:21,81.74,86.41,66.21,76.24,In state,on-campus,Walk,1.0,9.0,8.0
+35,24985,11/5/1995,4-Aug-2014,13-May-2019,1.0,Biology,Female,Non-athlete,1.7086579999999998,0.45359290943563974,pastsmoker,7.025,0:12:17,1.0,77.65,56.04,1.0,In state,on-campus,Walk,1.0,8.0,11.0
+36,25382,10/31/1995,4-Aug-2014,11-May-2020,1.0,0.0,Male,Athlete,1.821688,74.46634794204897,Nonsmoker,4.574,0:06:40,87.54,84.77,69.78,78.52,In state,off-campus,Car,27.0,5.0,3.0
+37,25701,10/27/1995,4-Aug-2014,13-May-2019,1.0,Chemistry,Female,Non-athlete,1.583944,74.38470121835057,Nonsmoker,6.136,0:07:28,83.97,85.85,57.74,83.65,In state,on-campus,Walk,1.0,6.0,11.0
+38,26140,10/21/1995,4-Aug-2014,11-May-2020,1.0,Aeronautics (Air Traffic Control),Female,Athlete,1.7531079999999999,88.70462936923371,Nonsmoker,4.634,0:05:36,83.15,83.95,77.6,89.07,Out of state,off-campus,Car,33.0,1.0,5.0
+39,29142,9/15/1995,4-Aug-2014,11-May-2020,1.0,Soc,Female,Non-athlete,1.744218,0.45359290943563974,Nonsmoker,6.572,0:08:19,89.48,78.0,59.24,81.95,Out of state,on-campus,Walk,1.0,4.0,0.0
+40,30056,9/4/1995,4-Aug-2014,11-May-2020,1.0,Poli Sci,Male,Athlete,1.833118,79.79152869882338,3.0,1.0,0:06:03,81.35,73.57,67.89,69.86,In state,on-campus,Walk,1.0,7.0,4.0
+41,30164,9/3/1995,4-Aug-2014,11-May-2020,1.0,0.0,Male,Non-athlete,1.767332,83.42480790340285,3.0,6.838,0:05:37,71.07,86.6,63.45,75.72,In state,off-campus,Car,37.0,7.0,5.0
+42,30953,8/23/1995,4-Aug-2014,11-May-2020,1.0,0.0,Female,Non-athlete,0.0254,53.97302029374677,Nonsmoker,7.875,0:09:05,72.79,71.65,68.83,78.85,In state,on-campus,Walk,1.0,8.0,11.0
+43,31227,8/20/1995,4-Aug-2014,11-May-2020,1.0,art historyy,Female,Non-athlete,1.7368519999999998,67.8892507552322,Currentsmoker,7.494,0:11:22,82.28,81.25,61.78,78.66,In state,on-campus,Walk,1.0,10.0,5.0
+44,31862,8/14/1995,4-Aug-2014,13-May-2019,1.0,0.0,Male,Athlete,1.86055,0.45359290943563974,3.0,5.625,0:08:08,75.44,86.14,59.64,76.88,In state,on-campus,Walk,1.0,3.0,5.0
+45,32521,8/6/1995,4-Aug-2014,13-May-2019,1.0,Art history,Male,Athlete,1.9682459999999997,104.5168781921601,Nonsmoker,4.979,0:08:16,76.9,85.24,75.94,1.0,In state,off-campus,Car,20.0,5.0,6.0
+46,33055,7/30/1995,4-Aug-2014,13-May-2019,1.0,0.0,Male,Athlete,1.7724119999999999,0.45359290943563974,Nonsmoker,4.673,1.0,1.0,74.07,57.48,73.15,In state,on-campus,Walk,1.0,5.0,5.0
+47,33153,7/28/1995,4-Aug-2014,13-May-2019,1.0,0.0,Other,Non-athlete,1.6464279999999998,90.60064773067468,Nonsmoker,7.181,0:06:51,1.0,84.98,75.66,87.03,In state,on-campus,Walk,1.0,5.0,3.0
+48,34417,7/12/1995,4-Aug-2014,13-May-2019,1.0,0.0,Female,Athlete,1.715516,0.45359290943563974,Nonsmoker,5.138,0:05:50,80.95,73.22,61.0,81.69,In state,off-campus,Car,28.0,7.0,1.0
+49,34717,7/10/1995,4-Aug-2014,11-May-2020,1.0,0.0,Male,Athlete,1.9550379999999998,71.51799403071732,Nonsmoker,5.887,0:06:07,76.47,80.82,68.19,78.88,In state,on-campus,Walk,1.0,7.0,1.0
+50,35023,7/5/1995,4-Aug-2014,13-May-2019,1.0,0.0,Female,Non-athlete,1.586484,87.93805735228747,Nonsmoker,1.0,0:09:06,94.43,87.34,79.93,79.63,Out of state,on-campus,Walk,1.0,6.0,19.0
+51,35599,6/28/1995,4-Aug-2014,11-May-2020,1.0,0.0,Male,Non-athlete,1.7091660000000002,99.32323937912203,3.0,7.323,0:09:21,74.07,73.45,63.54,1.0,In state,on-campus,Walk,1.0,5.0,3.0
+52,36555,6/18/1995,4-Aug-2014,11-May-2020,1.0,0.0,Male,Non-athlete,1.846326,115.03116183287824,Currentsmoker,6.716,0:06:09,70.48,85.48,65.88,71.44,In state,off-campus,Car,31.0,7.0,7.0
+53,38134,5/29/1995,4-Aug-2014,13-May-2019,1.0,agricultural studies,Male,Athlete,1.64846,88.27371610526986,Nonsmoker,4.873,0:08:19,84.95,81.01,62.08,71.21,In state,on-campus,Walk,1.0,6.0,5.0
+54,38528,5/24/1995,4-Aug-2014,13-May-2019,1.0,0.0,Female,Non-athlete,1.5854679999999999,58.00999718772397,pastsmoker,7.706,0:09:32,85.24,82.77,82.14,83.03,Out of state,on-campus,Walk,1.0,2.0,5.0
+55,38775,5/21/1995,4-Aug-2014,13-May-2019,1.0,Finance,Male,Athlete,1.792732,69.26363727082219,Nonsmoker,1.0,0:06:01,79.64,68.83,47.62,77.11,In state,on-campus,Walk,1.0,5.0,5.0
+56,38980,5/19/1995,4-Aug-2014,11-May-2020,1.0,bio,Male,Non-athlete,1.902968,74.8700456314467,Nonsmoker,8.926,0:10:40,88.44,84.15,78.38,69.52,In state,off-campus,Car,27.0,6.0,5.0
+57,39006,5/17/1995,4-Aug-2014,13-May-2019,1.0,Theare,Female,Athlete,1.716024,68.73293356678249,Nonsmoker,6.663,0:08:28,89.49,86.13,65.3,84.68,In state,on-campus,Walk,1.0,4.0,10.0
+58,39341,5/15/1995,4-Aug-2014,13-May-2019,1.0,0.0,Male,Athlete,1.866392,96.24334352405404,Nonsmoker,5.456,0:06:28,77.64,71.09,66.48,74.43,1.0,on-campus,Walk,1.0,7.0,1.0
+59,39542,5/11/1995,4-Aug-2014,11-May-2020,1.0,Engineering,Female,Non-athlete,1.855724,96.76043944081067,Nonsmoker,7.93,0:13:14,75.38,76.45,63.7,76.69,In state,on-campus,Walk,1.0,1.0,1.0
+60,39715,5/11/1995,4-Aug-2014,11-May-2020,1.0,environmental policy,Male,Athlete,0.0254,0.45359290943563974,Nonsmoker,4.751,0:06:00,1.0,80.51,70.42,74.57,In state,on-campus,Walk,1.0,9.0,6.0
+61,40161,5/3/1995,4-Aug-2014,13-May-2019,1.0,Classics,Female,Non-athlete,1.5549879999999998,89.5891355426332,Nonsmoker,7.296,0:07:34,87.87,91.89,77.23,86.6,Out of state,on-campus,Walk,1.0,10.0,1.0
+62,40619,4/29/1995,4-Aug-2014,11-May-2020,1.0,media literacy,Male,Non-athlete,1.66878,121.50846857961918,pastsmoker,5.537,0:07:03,82.24,93.34,63.28,1.0,In state,on-campus,Walk,1.0,4.0,8.0
+63,41288,4/22/1995,4-Aug-2014,11-May-2020,1.0,0.0,Male,Non-athlete,1.7686019999999998,79.88224728071052,Currentsmoker,7.848,1.0,79.48,101.59,73.49,71.67,Out of state,on-campus,Walk,1.0,5.0,1.0
+64,41254,4/20/1995,4-Aug-2014,11-May-2020,1.0,ancient studies,Female,Non-athlete,1.436116,58.95800636844445,Nonsmoker,7.171,0:08:10,85.53,76.35,55.19,84.97,Out of state,on-campus,Walk,1.0,4.0,15.0
+65,42023,4/10/1995,4-Aug-2014,11-May-2020,1.0,0.0,Female,Non-athlete,1.616202,57.43847012183506,Nonsmoker,7.701,0:09:49,72.31,89.03,78.04,72.55,Out of state,off-campus,Car,33.0,8.0,1.0
+66,42630,4/5/1995,4-Aug-2014,13-May-2019,1.0,0.0,Male,Non-athlete,2.144014,158.7892698061344,Nonsmoker,6.646,0:08:58,71.29,83.84,68.85,76.56,In state,on-campus,Walk,1.0,2.0,4.0
+67,42850,4/2/1995,4-Aug-2014,13-May-2019,1.0,Higher Ed,Male,Non-athlete,1.596136,52.6077056363455,Currentsmoker,7.817,1.0,60.96,69.87,58.97,71.56,In state,on-campus,Walk,1.0,1.0,4.0
+68,42769,4/1/1995,4-Aug-2014,13-May-2019,1.0,Psych,Female,Non-athlete,1.52781,64.40112128167213,pastsmoker,1.0,0:08:19,75.07,72.17,49.4,75.89,In state,on-campus,Walk,1.0,8.0,2.0
+69,43221,3/26/1995,4-Aug-2014,11-May-2020,1.0,0.0,Female,Athlete,1.680718,0.45359290943563974,Nonsmoker,1.0,0:05:16,76.23,79.79,64.83,83.58,In state,on-campus,Walk,1.0,5.0,4.0
+70,44088,3/18/1995,4-Aug-2014,13-May-2019,1.0,Music Education,Male,Athlete,1.9281139999999999,0.45359290943563974,Nonsmoker,4.566,0:06:46,85.34,81.42,73.51,74.0,In state,on-campus,Walk,1.0,8.0,10.0
+71,44413,3/12/1995,4-Aug-2014,11-May-2020,1.0,Pre-med,Female,Non-athlete,1.763522,94.22031914797108,Nonsmoker,8.157,0:12:40,86.85,91.25,76.93,84.01,In state,off-campus,Car,30.0,5.0,9.0
+72,44517,3/11/1995,4-Aug-2014,11-May-2020,1.0,Environmental Science,Female,Athlete,1.6781779999999997,62.14222859268264,Nonsmoker,6.826,0:07:29,69.81,70.58,35.32,70.73,In state,on-campus,Walk,1.0,5.0,1.0
+73,46221,2/20/1995,4-Aug-2014,11-May-2020,1.0,liberal Studies,Male,Athlete,1.683766,69.7625894712014,Nonsmoker,4.681,0:06:54,82.49,82.01,62.99,75.64,In state,on-campus,Walk,1.0,3.0,6.0
+74,47050,2/6/1995,4-Aug-2014,11-May-2020,1.0,psycho,Female,Non-athlete,1.5974059999999999,72.05323366385137,Currentsmoker,7.256,0:09:18,84.3,78.72,72.52,80.03,In state,off-campus,Car,32.0,3.0,12.0
+75,47887,1/28/1995,4-Aug-2014,11-May-2020,1.0,photograPhy,Female,Athlete,0.0254,68.93251444693418,Nonsmoker,5.527,0:06:23,86.59,79.22,57.58,70.89,In state,on-campus,Walk,1.0,4.0,3.0
+76,48361,1/25/1995,4-Aug-2014,13-May-2019,1.0,sport and exercise science,Male,Non-athlete,2.126742,93.68961544393139,Nonsmoker,7.817,0:09:59,95.23,76.72,69.7,82.44,In state,on-campus,Walk,1.0,5.0,6.0
+77,49213,1/16/1995,4-Aug-2014,11-May-2020,1.0,Geograph,Male,Athlete,1.8877279999999999,74.80200669503135,Nonsmoker,5.685,0:07:09,89.3,90.92,66.46,82.21,In state,on-campus,Walk,1.0,2.0,6.0
+78,49326,1/14/1995,4-Aug-2014,13-May-2019,1.0,0.0,Male,Non-athlete,1.8503899999999998,88.33268318349648,Nonsmoker,7.812,0:09:09,69.48,79.78,54.69,69.38,In state,on-campus,Walk,1.0,5.0,6.0
+79,49155,1/13/1995,4-Aug-2014,11-May-2020,1.0,English,Female,Non-athlete,1.57988,84.74929919895493,Nonsmoker,6.735,1.0,77.17,55.11,40.38,80.62,In state,on-campus,Walk,1.0,8.0,3.0
+80,20531,12/29/1994,4-Aug-2014,13-May-2019,1.0,0.0,Male,Athlete,0.0254,118.65536917926899,Nonsmoker,4.503,1.0,93.69,87.7,76.35,79.08,In state,on-campus,Walk,1.0,4.0,1.0
+81,20615,12/28/1994,4-Aug-2014,11-May-2020,1.0,photography,Female,Non-athlete,1.68656,76.00856383413014,Nonsmoker,1.0,0:09:49,85.44,85.49,69.92,84.34,In state,on-campus,Walk,1.0,7.0,6.0
+82,21492,12/17/1994,4-Aug-2014,11-May-2020,1.0,Art Education,Female,Athlete,1.622552,73.31422195208245,Nonsmoker,4.644,0:06:43,81.83,74.06,71.23,82.36,In state,on-campus,Walk,1.0,5.0,4.0
+83,22069,12/10/1994,4-Aug-2014,11-May-2020,1.0,0.0,Male,Non-athlete,1.8432779999999998,102.02211719026408,Nonsmoker,7.135,1.0,83.19,89.74,72.56,76.63,1.0,on-campus,Walk,1.0,3.0,7.0
+84,22567,12/4/1994,4-Aug-2014,13-May-2019,1.0,sports medicine,Female,Athlete,1.636522,88.00156035960846,Nonsmoker,4.819,0:05:38,80.07,103.62,79.17,75.56,In state,on-campus,Walk,1.0,7.0,1.0
+85,23767,11/20/1994,4-Aug-2014,11-May-2020,1.0,French,Male,Athlete,1.6972279999999997,75.54589906650581,Nonsmoker,5.654,0:06:13,77.42,79.14,60.06,76.25,In state,on-campus,Walk,1.0,4.0,11.0
+86,23937,11/17/1994,4-Aug-2014,13-May-2019,1.0,Theatre,Female,Non-athlete,1.589786,63.43496838457421,Currentsmoker,8.865,0:10:19,83.79,87.48,57.57,81.66,In state,on-campus,Walk,1.0,4.0,8.0
+87,24153,11/15/1994,4-Aug-2014,13-May-2019,1.0,Education - Science,Female,Non-athlete,1.577848,48.29857299670692,Currentsmoker,8.48,0:12:33,81.0,70.87,48.06,88.89,Out of state,on-campus,Car,23.0,7.0,4.0
+88,24202,11/14/1994,4-Aug-2014,13-May-2019,1.0,0.0,Female,Non-athlete,1.45796,74.62964138944581,3.0,6.839,1.0,79.0,78.47,59.89,79.02,Out of state,on-campus,Walk,1.0,8.0,4.0
+89,24556,11/10/1994,4-Aug-2014,11-May-2020,1.0,finance,Female,Non-athlete,0.0254,81.84630457856683,Nonsmoker,6.259,0:09:09,84.09,69.8,1.0,1.0,In state,on-campus,Walk,1.0,8.0,1.0
+90,24656,11/9/1994,4-Aug-2014,13-May-2019,1.0,interior design,Female,Non-athlete,1.704594,0.45359290943563974,Nonsmoker,8.224,0:11:47,81.68,88.16,70.56,72.53,In state,on-campus,Walk,1.0,6.0,3.0
+91,25740,10/26/1994,4-Aug-2014,11-May-2020,1.0,0.0,Female,Non-athlete,1.7010379999999998,70.2207183097314,Nonsmoker,8.285,0:10:59,82.56,89.88,81.44,1.0,In state,off-campus,Car,28.0,4.0,3.0
+92,26435,10/18/1994,4-Aug-2014,13-May-2019,1.0,0.0,Female,Non-athlete,1.4777719999999999,73.68616813781968,Currentsmoker,5.513,0:07:13,77.97,89.03,79.61,92.3,In state,on-campus,Walk,1.0,3.0,5.0
+93,26707,10/15/1994,4-Aug-2014,11-May-2020,1.0,Applied Math,Male,Non-athlete,1.9789139999999998,78.25838466493093,Nonsmoker,8.991,0:07:11,83.82,87.67,70.43,74.04,Out of state,off-campus,Car,23.0,5.0,3.0
+94,26691,10/15/1994,4-Aug-2014,13-May-2019,1.0,0.0,Female,Athlete,1.623314,67.80306810243943,Nonsmoker,4.895,0:07:08,85.27,77.75,69.3,75.6,Out of state,off-campus,Car,34.0,1.0,20.0
+95,27539,10/4/1994,4-Aug-2014,13-May-2019,1.0,Graphic Design,Female,Non-athlete,1.8940779999999997,121.00951637923995,Nonsmoker,6.55,0:09:13,85.43,87.7,70.57,77.46,In state,on-campus,Walk,1.0,11.0,1.0
+96,49947,9/12/1994,4-Aug-2014,13-May-2019,1.0,marketting,Female,Athlete,1.7353279999999998,72.8198056807976,Nonsmoker,5.503,0:06:48,71.12,56.53,55.43,73.56,In state,on-campus,Walk,1.0,7.0,9.0
+97,29516,9/10/1994,4-Aug-2014,13-May-2019,1.0,0.0,Female,Non-athlete,1.599692,0.45359290943563974,Currentsmoker,1.0,0:08:45,83.57,84.35,74.31,80.7,In state,on-campus,Walk,1.0,1.0,1.0
+98,30826,8/25/1994,4-Aug-2014,13-May-2019,1.0,0.0,Female,Athlete,1.6667480000000001,72.1031288838893,Nonsmoker,1.0,0:05:32,86.02,79.63,74.44,83.52,In state,off-campus,Public transit,53.0,5.0,2.0
+99,30989,8/23/1994,4-Aug-2014,11-May-2020,1.0,Undecided,Female,Athlete,1.65227,69.7716613293901,Nonsmoker,1.0,0:06:42,90.44,87.64,82.37,1.0,1.0,off-campus,Car,36.0,5.0,1.0
+100,32304,8/7/1994,4-Aug-2014,11-May-2020,1.0,Aerospace engineering,Female,Athlete,1.7078959999999999,71.30026943418821,Nonsmoker,5.404,0:07:28,82.77,73.27,55.81,79.15,In state,on-campus,Walk,1.0,1.0,2.0
+101,32895,8/1/1994,4-Aug-2014,11-May-2020,1.0,0.0,Male,Non-athlete,1.56845,0.45359290943563974,Nonsmoker,7.435,0:08:54,1.0,76.19,70.84,82.31,In state,on-campus,Walk,1.0,6.0,13.0
+102,34033,7/17/1994,4-Aug-2014,11-May-2020,1.0,Journalism,Female,Non-athlete,1.611376,63.92031279767035,Currentsmoker,6.428,0:09:36,84.34,1.0,68.01,84.32,In state,on-campus,Walk,1.0,9.0,1.0
+103,34800,7/7/1994,4-Aug-2014,11-May-2020,1.0,Math and computer science,Female,Athlete,1.737868,76.59369868730214,Currentsmoker,1.0,0:07:24,74.74,73.12,54.49,78.87,Out of state,on-campus,Walk,1.0,1.0,3.0
+104,34919,7/7/1994,4-Aug-2014,11-May-2020,1.0,biologie,Male,Non-athlete,1.8630899999999997,0.45359290943563974,pastsmoker,1.0,0:08:40,59.83,74.71,55.54,74.97,In state,on-campus,Walk,1.0,6.0,7.0
+105,36173,6/21/1994,4-Aug-2014,13-May-2019,1.0,bfa music,Female,Athlete,1.736598,77.86829476281626,Currentsmoker,6.295,0:05:54,76.98,69.59,66.05,71.83,In state,on-campus,Walk,1.0,5.0,4.0
+106,37458,6/4/1994,4-Aug-2014,13-May-2019,1.0,0.0,Female,Non-athlete,1.546352,67.51276864040062,Nonsmoker,6.747,0:07:35,80.52,81.38,67.75,82.68,In state,off-campus,Car,41.0,2.0,9.0
+107,38186,5/29/1994,4-Aug-2014,11-May-2020,1.0,Art,Male,Non-athlete,1.768348,0.45359290943563974,Nonsmoker,7.976,0:09:02,74.88,78.19,61.91,85.39,In state,off-campus,Car,33.0,4.0,7.0
+108,38365,5/27/1994,4-Aug-2014,11-May-2020,1.0,philosophy,Male,Athlete,1.6868139999999998,79.46947773312408,Nonsmoker,5.808,0:07:36,77.09,79.08,60.93,76.27,Out of state,on-campus,Walk,1.0,10.0,5.0
+109,39281,5/15/1994,4-Aug-2014,11-May-2020,1.0,0.0,Male,Athlete,1.831086,83.72417922363039,Nonsmoker,5.653,1.0,87.89,93.3,70.65,75.39,In state,on-campus,Walk,1.0,4.0,4.0
+110,39550,5/12/1994,4-Aug-2014,13-May-2019,1.0,0.0,Male,Athlete,1.909318,76.25350400522541,Nonsmoker,5.328,0:06:29,89.24,80.79,1.0,78.24,In state,off-campus,Car,26.0,6.0,4.0
+111,42681,4/4/1994,4-Aug-2014,13-May-2019,1.0,physic,Male,Athlete,1.716532,87.11705418620897,pastsmoker,5.771,0:08:36,69.96,78.19,68.17,78.57,In state,on-campus,Walk,1.0,7.0,13.0
+112,42914,3/30/1994,4-Aug-2014,13-May-2019,1.0,0.0,Female,Athlete,1.775968,86.46388039662165,Nonsmoker,6.118,0:06:44,85.06,80.56,69.25,85.2,Out of state,on-campus,Walk,1.0,4.0,10.0
+113,43402,3/25/1994,4-Aug-2014,11-May-2020,1.0,Education - K-12,Female,Non-athlete,1.671574,77.73675281907994,Nonsmoker,9.247,0:10:38,82.11,77.55,60.62,70.67,1.0,on-campus,Walk,1.0,4.0,5.0
+114,43610,3/23/1994,4-Aug-2014,11-May-2020,1.0,Studio art,Female,Non-athlete,1.77038,98.00328401266432,pastsmoker,8.478,0:09:45,79.61,78.38,45.79,77.91,In state,on-campus,Walk,1.0,3.0,6.0
+115,44736,3/11/1994,4-Aug-2014,11-May-2020,1.0,finance,Male,Athlete,1.742948,85.64287723054314,Nonsmoker,5.393,0:06:39,87.96,90.1,70.07,1.0,In state,off-campus,Public transit,64.0,4.0,4.0
+116,44661,3/10/1994,4-Aug-2014,11-May-2020,1.0,Clinical Psychology,Female,Non-athlete,1.481074,51.30589398626521,Nonsmoker,8.133,0:07:23,80.84,82.97,1.0,83.36,In state,on-campus,Walk,1.0,6.0,4.0
+117,45104,3/5/1994,4-Aug-2014,11-May-2020,1.0,0.0,Male,Non-athlete,1.658366,75.98134825956402,Nonsmoker,7.617,0:07:44,80.64,82.78,60.13,86.08,Out of state,on-campus,Walk,1.0,6.0,1.0
+118,45303,3/4/1994,4-Aug-2014,11-May-2020,1.0,journalism,Male,Athlete,1.933448,0.45359290943563974,Nonsmoker,5.605,1.0,96.42,99.42,77.14,81.3,In state,on-campus,Walk,1.0,4.0,1.0
+119,45377,3/1/1994,4-Aug-2014,13-May-2019,1.0,Applied math,Female,Non-athlete,1.512824,54.42661320318241,Nonsmoker,6.829,0:10:11,83.6,91.38,68.61,80.35,In state,off-campus,Bike,11.0,1.0,1.0
+120,45559,2/28/1994,4-Aug-2014,11-May-2020,1.0,Spanish,Male,Non-athlete,1.7099279999999997,98.23915232557086,pastsmoker,6.451,0:05:05,76.55,74.41,64.2,71.37,In state,off-campus,Car,30.0,7.0,4.0
+121,45550,2/26/1994,4-Aug-2014,13-May-2019,1.0,businness,Female,Athlete,1.788414,0.45359290943563974,Nonsmoker,5.91,0:06:40,84.6,67.82,62.77,82.73,In state,off-campus,Car,32.0,5.0,4.0
+122,45901,2/24/1994,4-Aug-2014,11-May-2020,1.0,nursing,Male,Athlete,1.949704,0.45359290943563974,Nonsmoker,4.741,0:07:22,78.37,83.32,65.79,81.93,In state,on-campus,Walk,1.0,10.0,4.0
+123,46109,2/21/1994,4-Aug-2014,11-May-2020,1.0,Applied Mathematics,Male,Non-athlete,1.553464,60.228066514864246,Nonsmoker,1.0,0:07:40,90.8,77.92,65.46,75.46,In state,on-campus,Walk,1.0,12.0,3.0
+124,46808,2/12/1994,4-Aug-2014,13-May-2019,1.0,music - piano performance,Male,Non-athlete,1.823466,70.58812856637427,Currentsmoker,7.221,0:06:55,90.18,81.7,80.51,75.58,In state,off-campus,Public transit,45.0,7.0,6.0
+125,46968,2/10/1994,4-Aug-2014,11-May-2020,1.0,french,Female,Athlete,1.7665699999999998,72.6020810842685,Nonsmoker,5.959,0:07:30,88.85,78.56,54.49,85.91,In state,on-campus,Walk,1.0,7.0,5.0
+126,48216,1/26/1994,4-Aug-2014,11-May-2020,1.0,chem,Male,Athlete,1.8087339999999998,77.53717193892825,Currentsmoker,1.0,0:08:50,94.33,76.88,74.19,79.99,In state,on-campus,Walk,1.0,8.0,4.0
+127,49381,1/11/1994,4-Aug-2014,13-May-2019,1.0,0.0,Female,Non-athlete,1.562862,92.05668096996308,Currentsmoker,1.0,0:08:33,80.03,80.19,65.69,86.64,In state,off-campus,Car,35.0,3.0,1.0
+128,49838,1/8/1994,4-Aug-2014,13-May-2019,1.0,0.0,Male,Athlete,1.817624,0.45359290943563974,Nonsmoker,5.651,0:06:33,68.97,78.16,60.06,71.87,In state,on-campus,Walk,1.0,10.0,7.0
+129,20248,1/1/1994,4-Aug-2014,11-May-2020,1.0,stats,Other,Non-athlete,1.557528,69.7943409748619,Currentsmoker,6.449,0:10:13,88.31,97.32,85.07,88.38,Out of state,off-campus,Car,30.0,5.0,6.0
+130,24267,11/13/1993,4-Aug-2014,13-May-2019,1.0,0.0,Female,Non-athlete,1.448054,51.555370086454815,Nonsmoker,6.822,0:11:05,86.13,84.98,59.08,81.71,Out of state,on-campus,Walk,1.0,4.0,17.0
+131,25577,10/28/1993,4-Aug-2014,11-May-2020,1.0,psychology,Female,Non-athlete,1.706372,80.81211274505357,Currentsmoker,8.138,0:11:18,91.36,77.64,59.33,89.69,In state,on-campus,Walk,1.0,7.0,4.0
+132,25893,10/25/1993,4-Aug-2014,11-May-2020,1.0,0.0,Male,Athlete,1.786382,85.8333862525061,Nonsmoker,5.798,0:07:02,78.84,71.03,60.19,74.68,1.0,off-campus,Car,31.0,5.0,1.0
+133,26481,10/18/1993,4-Aug-2014,13-May-2019,1.0,0.0,Male,Athlete,1.863344,82.19103518973792,3.0,5.707,0:06:57,64.01,76.44,68.95,73.62,Out of state,on-campus,Walk,1.0,4.0,11.0
+134,26998,10/11/1993,4-Aug-2014,11-May-2020,1.0,social work,Male,Athlete,1.893824,93.14076802351427,Nonsmoker,5.259,0:06:55,85.24,81.39,70.74,1.0,In state,off-campus,Car,28.0,3.0,7.0
+135,27765,10/1/1993,4-Aug-2014,13-May-2019,1.0,history,Female,Athlete,1.7198339999999999,89.1219348459145,Nonsmoker,5.978,0:06:54,70.26,69.19,64.17,66.76,Out of state,on-campus,Walk,1.0,1.0,11.0
+136,30426,8/31/1993,4-Aug-2014,13-May-2019,1.0,0.0,Male,Non-athlete,1.8829019999999999,71.64046411626494,Nonsmoker,8.044,0:08:10,80.01,1.0,59.68,76.8,In state,on-campus,Walk,1.0,3.0,1.0
+137,31807,8/14/1993,4-Aug-2014,13-May-2019,1.0,nursing,Male,Non-athlete,1.98628,132.44459362611246,Nonsmoker,7.177,0:06:10,1.0,73.72,58.64,77.89,Out of state,on-campus,Walk,1.0,1.0,3.0
+138,32219,8/9/1993,4-Aug-2014,11-May-2020,1.0,Family and Consumer Science,Male,Non-athlete,1.78816,111.87415518320618,Nonsmoker,5.753,0:06:20,82.45,89.05,85.19,75.51,Out of state,on-campus,Walk,1.0,6.0,1.0
+139,32187,8/9/1993,4-Aug-2014,13-May-2019,1.0,paralegal studies,Male,Athlete,1.7495519999999998,69.12302346889713,Nonsmoker,4.704,0:06:24,89.08,89.63,1.0,72.86,In state,on-campus,Walk,1.0,6.0,10.0
+140,32776,8/2/1993,4-Aug-2014,11-May-2020,1.0,english,Female,Non-athlete,1.677416,100.4708294399942,Nonsmoker,8.057,0:09:47,89.33,89.86,59.7,84.88,In state,on-campus,Car,39.0,1.0,12.0
+141,34019,7/18/1993,4-Aug-2014,13-May-2019,1.0,statistics,Male,Non-athlete,1.642364,114.8587965272927,Currentsmoker,1.0,0:05:33,86.16,94.94,68.78,71.93,Out of state,off-campus,Car,25.0,10.0,5.0
+142,34705,7/10/1993,4-Aug-2014,13-May-2019,1.0,0.0,Male,Non-athlete,1.894332,122.18885794377263,Nonsmoker,6.85,0:06:27,82.95,63.56,57.54,75.98,In state,on-campus,Walk,1.0,1.0,7.0
+143,34595,7/10/1993,4-Aug-2014,13-May-2019,1.0,0.0,Female,Athlete,1.6672559999999998,68.92797851783982,Nonsmoker,5.544,1.0,93.78,83.49,66.03,77.69,Out of state,on-campus,Walk,1.0,6.0,4.0
+144,36109,6/22/1993,4-Aug-2014,13-May-2019,1.0,0.0,Female,Athlete,1.769364,76.30793515435766,Nonsmoker,5.162,1.0,82.92,81.07,64.33,81.49,Out of state,on-campus,Walk,1.0,5.0,4.0
+145,36524,6/18/1993,4-Aug-2014,11-May-2020,1.0,0.0,Male,Athlete,1.8864579999999997,75.80444702488411,Currentsmoker,5.707,0:07:34,75.05,71.04,54.73,72.09,In state,on-campus,Walk,1.0,5.0,2.0
+146,38091,5/29/1993,4-Aug-2014,13-May-2019,1.0,0.0,Male,Athlete,1.998472,108.24541190772106,Currentsmoker,5.768,0:08:34,67.03,68.43,64.06,68.87,In state,on-campus,Walk,1.0,5.0,8.0
+147,40408,5/2/1993,4-Aug-2014,13-May-2019,1.0,math,Male,Non-athlete,1.8770600000000002,82.22278669339842,Nonsmoker,1.0,0:08:35,75.66,81.97,60.76,75.2,In state,on-campus,Walk,1.0,8.0,8.0
+148,40803,4/24/1993,4-Aug-2014,13-May-2019,1.0,what?,Female,Non-athlete,1.584452,61.470911086717905,Nonsmoker,6.566,0:08:49,94.64,89.06,70.44,88.15,In state,on-campus,Walk,1.0,3.0,2.0
+149,41397,4/19/1993,4-Aug-2014,11-May-2020,1.0,none of ur bisness!,Female,Non-athlete,1.4968219999999999,74.26223113280294,Nonsmoker,6.673,0:08:18,84.86,80.98,71.64,86.86,In state,off-campus,Car,20.0,10.0,6.0
+150,43142,3/30/1993,4-Aug-2014,11-May-2020,1.0,Forensic psych,Male,Non-athlete,0.0254,79.29257649844419,Nonsmoker,6.348,0:06:00,96.48,81.68,63.49,85.67,In state,on-campus,Walk,1.0,1.0,5.0
+151,44929,3/7/1993,4-Aug-2014,11-May-2020,1.0,Visual journalism (photojournalism),Male,Non-athlete,1.619758,107.33822608884978,Nonsmoker,6.599,0:07:11,86.35,88.85,70.36,74.82,In state,on-campus,Walk,1.0,10.0,16.0
+152,44752,3/7/1993,4-Aug-2014,11-May-2020,1.0,Physics,Female,Non-athlete,1.8059399999999999,68.07068791900646,Nonsmoker,8.897,0:13:35,85.36,90.18,60.03,85.15,In state,on-campus,Walk,1.0,3.0,1.0
+153,45420,3/1/1993,4-Aug-2014,11-May-2020,1.0,comp sci,Male,Athlete,1.772158,104.59398898676417,Nonsmoker,4.62,1.0,84.4,76.6,63.42,72.67,In state,on-campus,Walk,1.0,1.0,16.0
+154,48309,1/24/1993,4-Aug-2014,13-May-2019,1.0,Forensics,Female,Non-athlete,1.6667480000000001,56.172945904509625,Nonsmoker,1.0,0:08:38,80.59,94.7,74.54,84.25,In state,on-campus,Walk,1.0,10.0,4.0
+155,48509,1/24/1993,4-Aug-2014,11-May-2020,1.0,marketing,Male,Athlete,1.683258,54.00930772650162,Nonsmoker,4.556,0:06:39,79.81,77.98,65.48,83.37,In state,on-campus,Walk,1.0,6.0,5.0
+156,48541,1/23/1993,4-Aug-2014,11-May-2020,1.0,business admin,Male,Non-athlete,1.901444,121.21816911758037,Nonsmoker,8.899,0:08:31,90.87,76.84,71.09,80.39,In state,on-campus,Walk,1.0,1.0,3.0
+157,48591,1/22/1993,4-Aug-2014,11-May-2020,1.0,geology,Male,Athlete,1.754886,90.22870154493745,Nonsmoker,4.695,0:06:27,67.77,77.46,59.51,1.0,In state,off-campus,Car,21.0,6.0,1.0
+158,48942,1/16/1993,4-Aug-2014,13-May-2019,1.0,english composition,Female,Non-athlete,1.773936,108.3678819932687,Nonsmoker,6.756,0:10:36,81.22,83.18,85.32,1.0,In state,off-campus,Walk,1.0,1.0,9.0
+159,49342,1/11/1993,4-Aug-2014,13-May-2019,1.0,community counseling,Female,Non-athlete,1.39827,69.77619725848447,Nonsmoker,6.35,0:07:55,73.72,77.73,66.57,1.0,In state,on-campus,Walk,1.0,1.0,1.0
+160,20680,12/27/1992,4-Aug-2014,11-May-2020,1.0,0.0,Female,Athlete,1.720342,77.06543531311519,Nonsmoker,6.621,0:06:59,85.34,84.05,50.7,1.0,In state,on-campus,Walk,1.0,6.0,2.0
+161,22425,12/6/1992,4-Aug-2014,11-May-2020,1.0,Criminology,Female,Athlete,1.651762,0.45359290943563974,3.0,5.817,0:07:58,82.8,79.38,51.32,75.98,In state,off-campus,Car,28.0,6.0,4.0
+162,31793,8/13/1992,4-Aug-2014,11-May-2020,1.0,phsycology,Female,Non-athlete,1.469136,70.56544892090247,Currentsmoker,8.014,0:10:14,94.74,96.24,69.93,88.19,In state,on-campus,Walk,1.0,4.0,4.0
+163,32415,8/7/1992,4-Aug-2014,11-May-2020,1.0,Elementary Education (K-6),Other,Athlete,1.7266920000000001,88.42340176538362,Nonsmoker,1.0,0:06:31,87.86,75.84,65.55,77.06,In state,on-campus,Walk,1.0,6.0,3.0
+164,34176,7/17/1992,4-Aug-2014,13-May-2019,1.0,CS,Male,Athlete,1.77038,78.72558536164964,Nonsmoker,5.522,0:07:01,65.26,77.09,56.32,72.51,Out of state,on-campus,Walk,1.0,4.0,5.0
+165,41411,4/17/1992,4-Aug-2014,11-May-2020,1.0,Fashion Merchandizing,Female,Athlete,1.683766,0.45359290943563974,Nonsmoker,1.0,0:07:55,86.76,74.05,48.78,91.14,Out of state,on-campus,Walk,1.0,10.0,5.0
+166,42540,4/4/1992,4-Aug-2014,13-May-2019,1.0,0.0,Female,Athlete,1.6586199999999998,69.47682593825694,Nonsmoker,5.36,0:07:41,75.06,79.5,59.1,76.46,Out of state,on-campus,Walk,1.0,6.0,6.0
+167,44533,3/13/1992,4-Aug-2014,11-May-2020,1.0,Liberal Studies,Male,Non-athlete,1.729486,0.45359290943563974,Nonsmoker,8.755,0:11:59,98.81,80.59,1.0,81.6,Out of state,on-campus,Walk,1.0,10.0,5.0
+168,45711,2/28/1992,4-Aug-2014,13-May-2019,1.0,chem,Male,Non-athlete,2.01295,151.69961263165536,Nonsmoker,6.485,0:08:31,81.84,87.51,67.33,77.83,Out of state,on-campus,Car,22.0,4.0,1.0
+169,43692,3/22/1991,4-Aug-2014,11-May-2020,1.0,biometrics,Female,Non-athlete,1.468628,77.47820486070162,Nonsmoker,1.0,0:08:44,85.53,89.67,78.05,1.0,In state,on-campus,Walk,1.0,8.0,7.0
+170,21606,12/17/1990,4-Aug-2014,11-May-2020,1.0,english,Female,Athlete,1.73736,72.5385780769475,Nonsmoker,5.671,0:08:06,83.33,94.15,67.51,74.97,In state,on-campus,Walk,1.0,2.0,6.0
+171,22186,12/10/1989,4-Aug-2014,11-May-2020,1.0,Zoology,Male,Non-athlete,1.7772379999999999,95.45862779073038,pastsmoker,8.549,1.0,94.41,92.48,73.18,84.32,In state,on-campus,Walk,1.0,1.0,9.0
+172,28642,9/22/1987,4-Aug-2014,11-May-2020,1.0,Human Development and Family Studies,Female,Non-athlete,1.66243,68.09336756447824,Nonsmoker,1.0,0:09:23,80.82,69.0,62.53,82.44,In state,on-campus,Walk,1.0,1.0,10.0
+173,44795,3/8/1987,4-Aug-2014,13-May-2019,1.0,0.0,Female,Non-athlete,1.776476,109.0528072865165,3.0,6.598,0:09:23,93.0,83.23,86.66,90.94,1.0,on-campus,Walk,1.0,5.0,5.0
+174,47027,2/10/1987,4-Aug-2014,13-May-2019,1.0,0.0,Female,Non-athlete,1.5933419999999998,0.45359290943563974,pastsmoker,7.98,0:10:49,80.74,78.99,59.38,76.49,In state,on-campus,Walk,1.0,3.0,11.0
+175,22416,1.0,4-Aug-2014,13-May-2019,1.0,0.0,Male,Athlete,0.0254,0.45359290943563974,Nonsmoker,4.679,0:06:22,76.87,81.84,76.81,76.28,In state,off-campus,Car,32.0,6.0,2.0
+176,20255,1/1/1996,5-Aug-2013,14-May-2018,2.0,double major english and communications,Female,Non-athlete,1.67005,0.45359290943563974,Nonsmoker,7.684,0:11:57,80.46,81.22,46.3,72.24,Out of state,on-campus,Car,26.0,1.0,2.0
+177,20826,12/25/1995,5-Aug-2013,14-May-2018,2.0,0.0,Male,Non-athlete,1.6817339999999998,103.3738240603823,Nonsmoker,6.229,0:06:47,77.38,67.59,66.59,76.47,In state,on-campus,Walk,1.0,9.0,7.0
+178,22494,12/5/1995,5-Aug-2013,14-May-2018,2.0,premed,Male,Athlete,1.648968,58.58606018270723,Nonsmoker,5.139,0:07:50,83.11,75.79,65.43,1.0,1.0,on-campus,Walk,1.0,4.0,5.0
+179,27688,10/2/1995,5-Aug-2013,14-May-2018,2.0,archaeology,Female,Non-athlete,1.7630139999999999,77.5008845061734,pastsmoker,7.652,0:09:32,86.99,84.61,78.33,84.56,Out of state,on-campus,Walk,1.0,1.0,3.0
+180,29363,9/12/1995,5-Aug-2013,13-May-2019,2.0,0.0,Female,Non-athlete,1.7000220000000001,99.13726628625342,3.0,6.615,0:11:24,90.33,96.79,69.79,93.01,In state,on-campus,Walk,1.0,4.0,1.0
+181,34623,7/10/1995,5-Aug-2013,14-May-2018,2.0,0.0,Female,Non-athlete,1.6817339999999998,98.63377815677985,Nonsmoker,6.902,0:10:17,78.2,75.92,46.99,81.43,1.0,off-campus,Car,35.0,7.0,8.0
+182,35350,7/1/1995,5-Aug-2013,14-May-2018,2.0,0.0,Female,Non-athlete,1.431544,57.36589525632536,Nonsmoker,7.57,0:10:03,87.33,67.42,53.17,87.05,Out of state,on-campus,Walk,1.0,7.0,3.0
+183,36655,6/16/1995,5-Aug-2013,13-May-2019,2.0,biostatistics,Male,Athlete,1.635506,88.44154548176103,Nonsmoker,5.27,0:06:08,81.9,81.98,73.83,73.72,In state,off-campus,Car,24.0,8.0,6.0
+184,46265,2/20/1995,5-Aug-2013,14-May-2018,2.0,bio tech,Male,Athlete,1.7772379999999999,78.43074997051647,Nonsmoker,5.521,0:06:05,91.92,73.49,63.88,85.42,In state,off-campus,Walk,1.0,8.0,1.0
+185,22617,12/4/1994,5-Aug-2013,14-May-2018,2.0,graphic design with a minor in photography,Male,Athlete,1.8808699999999998,0.45359290943563974,Currentsmoker,5.504,0:06:16,82.14,86.18,67.71,76.71,In state,on-campus,Walk,1.0,5.0,7.0
+186,25034,11/4/1994,5-Aug-2013,14-May-2018,2.0,Secondary Education,Female,Non-athlete,1.6852899999999997,0.45359290943563974,Nonsmoker,7.403,0:09:17,74.68,75.42,62.08,77.96,In state,on-campus,Walk,1.0,5.0,3.0
+187,25221,11/2/1994,5-Aug-2013,14-May-2018,2.0,World history,Male,Athlete,1.709674,93.69415137302575,Nonsmoker,5.02,0:05:49,73.12,87.62,63.49,69.56,In state,on-campus,Walk,1.0,6.0,2.0
+188,26961,10/11/1994,5-Aug-2013,13-May-2019,2.0,0.0,Female,Non-athlete,1.536954,61.16700383739602,Nonsmoker,7.802,0:11:05,83.45,90.41,60.94,76.85,In state,off-campus,Car,18.0,5.0,4.0
+189,27435,10/5/1994,5-Aug-2013,13-May-2019,2.0,0.0,Female,Non-athlete,1.582928,84.59507760974681,pastsmoker,6.876,0:07:59,83.83,94.87,73.25,81.85,In state,off-campus,Car,32.0,1.0,5.0
+190,28084,9/29/1994,5-Aug-2013,13-May-2019,2.0,architecture,Male,Non-athlete,1.7820639999999999,0.45359290943563974,Nonsmoker,8.246,1.0,91.72,86.81,71.22,81.83,In state,on-campus,Walk,1.0,6.0,4.0
+191,28460,9/23/1994,5-Aug-2013,14-May-2018,2.0,Photography/Photo Illustration,Female,Athlete,1.70053,73.30515009389374,Nonsmoker,5.632,0:05:48,77.68,73.78,61.55,86.28,In state,on-campus,Walk,1.0,4.0,3.0
+192,28570,9/22/1994,5-Aug-2013,13-May-2019,2.0,0.0,Male,Non-athlete,1.725422,62.124084876305226,Currentsmoker,1.0,0:09:25,71.28,66.97,59.05,77.43,In state,on-campus,Walk,1.0,9.0,1.0
+193,29313,9/13/1994,5-Aug-2013,14-May-2018,2.0,Fashion design,Male,Athlete,1.665224,73.76781486151809,pastsmoker,5.153,0:07:24,86.47,85.19,64.45,79.36,In state,on-campus,Walk,1.0,5.0,3.0
+194,31189,8/21/1994,5-Aug-2013,13-May-2019,2.0,phys ed,Male,Athlete,1.9161759999999999,93.36756447823208,Nonsmoker,5.886,0:06:27,81.19,89.84,68.4,81.66,In state,on-campus,Walk,1.0,8.0,12.0
+195,31576,8/16/1994,5-Aug-2013,14-May-2018,2.0,0.0,Female,Athlete,1.6515079999999998,64.88646569476828,Nonsmoker,5.644,0:07:00,1.0,80.45,66.51,72.36,In state,on-campus,Walk,1.0,8.0,1.0
+196,32437,8/6/1994,5-Aug-2013,13-May-2019,2.0,education - social studies,Female,Non-athlete,1.581912,58.50441345900881,Nonsmoker,6.476,0:08:35,74.59,72.61,63.64,78.86,1.0,off-campus,Car,18.0,6.0,1.0
+197,32439,8/5/1994,5-Aug-2013,14-May-2018,2.0,0.0,Female,Athlete,1.66243,67.66699022960874,Nonsmoker,5.472,0:07:01,91.44,96.56,76.42,87.32,Out of state,off-campus,Car,28.0,8.0,7.0
+198,33117,7/28/1994,5-Aug-2013,13-May-2019,2.0,english literature,Female,Athlete,1.607058,55.72388892416834,Nonsmoker,5.303,0:07:17,87.75,81.48,62.87,80.16,In state,on-campus,Walk,1.0,5.0,7.0
+199,33377,7/25/1994,5-Aug-2013,13-May-2019,2.0,0.0,Female,Non-athlete,1.4605,46.919650552022574,Nonsmoker,7.708,0:10:53,84.18,87.59,61.3,82.64,In state,on-campus,Walk,1.0,8.0,3.0
+200,33454,7/24/1994,5-Aug-2013,14-May-2018,2.0,0.0,Female,Non-athlete,1.9380199999999999,103.5824767987227,Currentsmoker,7.586,0:12:53,1.0,76.12,64.49,85.19,In state,off-campus,Car,37.0,6.0,4.0
+201,36104,6/23/1994,5-Aug-2013,13-May-2019,2.0,eudcation,Male,Athlete,1.7967959999999998,79.67359454237013,Nonsmoker,4.716,0:06:19,76.49,89.04,62.25,67.08,In state,off-campus,Car,26.0,1.0,10.0
+202,36406,6/18/1994,5-Aug-2013,13-May-2019,2.0,Marketing & Graphic Design,Female,Non-athlete,1.7325339999999998,99.45478132285837,Nonsmoker,7.337,1.0,82.46,98.48,60.56,78.51,In state,on-campus,Walk,1.0,4.0,8.0
+203,36714,6/16/1994,5-Aug-2013,13-May-2019,2.0,busieness,Male,Non-athlete,1.7762220000000002,90.6187914470521,3.0,6.905,0:07:15,95.11,94.66,73.25,77.75,In state,on-campus,Walk,1.0,6.0,6.0
+204,36693,6/14/1994,5-Aug-2013,13-May-2019,2.0,Accounting,Female,Non-athlete,1.71831,57.678874363835945,Currentsmoker,9.475,0:11:46,80.53,87.96,64.28,81.96,In state,on-campus,Walk,1.0,5.0,5.0
+205,37615,6/2/1994,5-Aug-2013,14-May-2018,2.0,science education (k-12),Female,Athlete,1.735582,71.10068855403652,3.0,5.769,0:07:01,76.01,79.17,65.63,1.0,In state,on-campus,Walk,1.0,5.0,7.0
+206,38362,5/26/1994,5-Aug-2013,13-May-2019,2.0,0.0,Male,Non-athlete,1.8869660000000001,83.73325108181909,Nonsmoker,9.071,0:12:21,90.5,84.56,68.59,73.07,In state,on-campus,Walk,1.0,4.0,1.0
+207,38549,5/24/1994,5-Aug-2013,13-May-2019,2.0,chem engineering,Male,Non-athlete,1.9951699999999999,74.74757554589907,Nonsmoker,8.142,0:07:58,91.2,89.95,77.45,82.24,1.0,off-campus,Car,24.0,6.0,3.0
+208,41157,4/21/1994,5-Aug-2013,13-May-2019,2.0,0.0,Female,Non-athlete,1.857248,72.49321878600394,Nonsmoker,8.512,0:12:56,77.67,92.88,76.91,78.91,Out of state,on-campus,Walk,1.0,11.0,4.0
+209,41227,4/19/1994,5-Aug-2013,14-May-2018,2.0,0.0,Female,Non-athlete,0.0254,123.60860375030619,Nonsmoker,7.296,1.0,87.73,80.22,69.55,82.11,In state,on-campus,Walk,1.0,5.0,8.0
+210,41870,4/11/1994,5-Aug-2013,13-May-2019,2.0,I am currently exploring options,Female,Non-athlete,1.397,46.134934818698916,Nonsmoker,7.433,0:10:08,86.23,89.19,61.2,88.91,Out of state,on-campus,Car,24.0,9.0,3.0
+211,42217,4/7/1994,5-Aug-2013,14-May-2018,2.0,0.0,Other,Athlete,1.7805399999999998,84.73569141167187,Nonsmoker,5.617,0:06:53,87.15,91.86,70.96,89.84,Out of state,on-campus,Walk,1.0,7.0,4.0
+212,42783,4/3/1994,5-Aug-2013,14-May-2018,2.0,Neuroscience,Male,Non-athlete,1.566164,82.44958314811625,Currentsmoker,7.332,0:06:52,87.71,91.03,76.42,84.27,In state,off-campus,Car,28.0,7.0,2.0
+213,42830,4/2/1994,5-Aug-2013,14-May-2018,2.0,Econ,Male,Athlete,1.9697699999999998,75.586722428355,Nonsmoker,5.238,0:07:06,76.12,88.46,66.48,1.0,In state,off-campus,Car,28.0,1.0,2.0
+214,42791,4/1/1994,5-Aug-2013,13-May-2019,2.0,Theology,Female,Non-athlete,1.613408,81.68754706026436,Nonsmoker,9.241,0:11:24,85.62,82.48,82.4,87.1,In state,on-campus,Walk,1.0,10.0,5.0
+215,43973,3/17/1994,5-Aug-2013,14-May-2018,2.0,Mathematics,Female,Non-athlete,1.8821399999999997,96.47467590786621,Currentsmoker,8.429,0:10:44,80.53,94.46,76.73,86.66,1.0,on-campus,Walk,1.0,12.0,3.0
+216,47506,2/3/1994,5-Aug-2013,13-May-2019,2.0,Biology,Female,Athlete,1.593596,73.24164708657275,Nonsmoker,1.0,0:06:36,75.09,88.17,72.1,76.65,1.0,on-campus,Walk,1.0,8.0,7.0
+217,49879,1/7/1994,5-Aug-2013,14-May-2018,2.0,exercise science,Male,Athlete,1.831086,98.54305957489274,Nonsmoker,5.46,0:06:27,72.8,73.18,53.71,72.41,Out of state,off-campus,Car,27.0,6.0,4.0
+218,20402,12/31/1993,5-Aug-2013,14-May-2018,2.0,biz admin,Male,Non-athlete,1.586484,91.97503424626467,Nonsmoker,6.132,0:07:14,74.15,80.96,69.39,75.77,In state,off-campus,Car,30.0,9.0,7.0
+219,20626,12/28/1993,5-Aug-2013,13-May-2019,2.0,0.0,Female,Non-athlete,1.4584679999999999,81.34735237818764,Currentsmoker,6.619,1.0,73.12,81.34,69.47,78.81,In state,off-campus,Public transit,53.0,6.0,2.0
+220,20903,12/25/1993,5-Aug-2013,13-May-2019,2.0,0.0,Male,Athlete,1.6761459999999997,64.19700447242609,Nonsmoker,5.663,0:05:45,89.95,83.61,61.04,78.86,In state,off-campus,Car,23.0,1.0,4.0
+221,22742,12/2/1993,5-Aug-2013,14-May-2018,2.0,sports med,Female,Non-athlete,1.891538,0.45359290943563974,Nonsmoker,7.499,0:11:33,84.14,68.46,47.42,85.33,1.0,on-campus,Walk,1.0,4.0,8.0
+222,23731,11/20/1993,5-Aug-2013,13-May-2019,2.0,Theater,Male,Athlete,1.846326,94.9460678030681,Nonsmoker,5.554,0:06:26,87.83,84.06,63.32,72.53,In state,off-campus,Public transit,57.0,4.0,3.0
+223,25714,10/27/1993,5-Aug-2013,14-May-2018,2.0,0.0,Other,Non-athlete,1.561846,107.52873511081276,Nonsmoker,6.32,0:05:32,82.23,86.94,62.51,75.63,In state,on-campus,Walk,1.0,1.0,6.0
+224,28053,9/28/1993,5-Aug-2013,13-May-2019,2.0,math ed,Female,Non-athlete,1.7213579999999997,68.45624189202674,Nonsmoker,8.17,0:11:41,88.16,80.86,58.27,78.2,In state,on-campus,Walk,1.0,7.0,3.0
+225,28668,9/21/1993,5-Aug-2013,13-May-2019,2.0,undecided,Male,Athlete,1.6543019999999997,71.88994021645455,Nonsmoker,1.0,0:06:39,77.07,86.95,68.02,79.05,In state,on-campus,Walk,1.0,5.0,12.0
+226,29238,9/14/1993,5-Aug-2013,14-May-2018,2.0,Urban studies,Male,Athlete,1.941576,88.54133592183688,Nonsmoker,5.232,0:06:28,86.46,91.52,74.07,78.15,In state,off-campus,Car,33.0,8.0,13.0
+227,30418,8/31/1993,5-Aug-2013,13-May-2019,2.0,nursing,Other,Non-athlete,1.64465,103.00187787464507,Nonsmoker,6.52,0:05:14,96.16,78.02,58.29,79.61,1.0,off-campus,Car,40.0,7.0,1.0
+228,30720,8/27/1993,5-Aug-2013,14-May-2018,2.0,pan-african studies and english,Male,Non-athlete,1.646682,72.55218586423057,Nonsmoker,6.897,0:07:47,82.06,78.72,73.13,73.33,In state,off-campus,Car,21.0,13.0,12.0
+229,35687,6/26/1993,5-Aug-2013,13-May-2019,2.0,Sociology,Female,Non-athlete,1.4561819999999999,48.99257014814345,Nonsmoker,8.525,0:10:13,81.74,83.16,46.25,84.22,In state,on-campus,Walk,1.0,8.0,7.0
+230,36368,6/19/1993,5-Aug-2013,13-May-2019,2.0,0.0,Male,Athlete,1.9039839999999997,83.08007729223178,Nonsmoker,4.642,0:07:31,68.77,85.45,64.91,70.19,Out of state,off-campus,Public transit,40.0,10.0,1.0
+231,36336,6/18/1993,5-Aug-2013,14-May-2018,2.0,Economics,Female,Non-athlete,1.71958,55.93254166250874,Nonsmoker,8.103,0:13:41,82.15,96.24,67.59,79.11,In state,off-campus,Car,26.0,3.0,4.0
+232,37105,6/8/1993,5-Aug-2013,14-May-2018,2.0,Undecided,Female,Athlete,1.68021,0.45359290943563974,Currentsmoker,6.651,0:07:00,76.62,79.86,59.55,82.14,In state,off-campus,Car,24.0,5.0,3.0
+233,37421,6/7/1993,5-Aug-2013,14-May-2018,2.0,Englis,Male,Athlete,1.7871439999999998,98.8787183278751,Nonsmoker,5.755,1.0,1.0,92.05,78.63,78.19,In state,off-campus,Public transit,51.0,4.0,5.0
+234,37301,6/6/1993,5-Aug-2013,14-May-2018,2.0,0.0,Female,Non-athlete,0.0254,81.85991236584991,Currentsmoker,7.623,1.0,90.83,90.28,66.51,78.65,Out of state,off-campus,Public transit,43.0,7.0,1.0
+235,38418,5/25/1993,5-Aug-2013,14-May-2018,2.0,0.0,Male,Non-athlete,1.7015459999999998,55.64224220046993,Nonsmoker,7.08,0:06:19,69.32,66.09,51.08,80.44,In state,on-campus,Walk,1.0,7.0,5.0
+236,38724,5/21/1993,5-Aug-2013,13-May-2019,2.0,I'm not answering this. This survey is too long and I am b,Female,Athlete,1.599692,72.3843564877394,Nonsmoker,5.536,0:06:44,80.71,80.56,1.0,75.48,In state,on-campus,Walk,1.0,4.0,4.0
+237,41156,4/21/1993,5-Aug-2013,13-May-2019,2.0,0.0,Female,Athlete,1.691894,78.40353439595033,Nonsmoker,5.083,1.0,1.0,81.11,72.83,90.81,1.0,off-campus,Car,27.0,6.0,16.0
+238,41503,4/19/1993,5-Aug-2013,13-May-2019,2.0,0.0,Male,Non-athlete,1.7360899999999997,98.0259636581361,Nonsmoker,6.326,0:05:38,85.29,72.55,1.0,80.46,In state,on-campus,Walk,1.0,5.0,13.0
+239,43678,3/24/1993,5-Aug-2013,14-May-2018,2.0,business admin,Other,Athlete,1.70561,84.95341600820096,Nonsmoker,5.108,0:05:01,73.31,81.99,73.2,74.14,In state,on-campus,Walk,1.0,2.0,4.0
+240,43971,3/18/1993,5-Aug-2013,13-May-2019,2.0,0.0,Female,Athlete,1.64338,82.82152933385346,Nonsmoker,6.093,0:05:57,83.27,80.54,70.55,86.27,In state,on-campus,Walk,1.0,4.0,1.0
+241,45902,2/24/1993,5-Aug-2013,13-May-2019,2.0,0.0,Male,Non-athlete,1.656588,69.90320327312645,Currentsmoker,1.0,0:08:17,85.16,83.96,64.56,90.62,In state,on-campus,Walk,1.0,10.0,6.0
+242,46663,2/13/1993,5-Aug-2013,14-May-2018,2.0,0.0,Female,Non-athlete,1.7975579999999998,121.277136195807,pastsmoker,6.391,0:08:43,84.79,87.04,64.34,76.01,Out of state,on-campus,Walk,1.0,5.0,5.0
+243,47339,2/4/1993,5-Aug-2013,13-May-2019,2.0,0.0,Female,Athlete,1.6924019999999997,74.76118333318215,Nonsmoker,6.092,0:07:02,69.78,77.16,62.23,78.04,In state,off-campus,Car,32.0,10.0,13.0
+244,47912,1/29/1993,5-Aug-2013,13-May-2019,2.0,Comm,Male,Non-athlete,1.633474,96.00293928205315,Nonsmoker,1.0,0:08:58,88.02,81.46,57.78,80.37,Out of state,on-campus,Walk,1.0,4.0,4.0
+245,48764,1/16/1993,5-Aug-2013,14-May-2018,2.0,0.0,Female,Non-athlete,1.5478759999999998,90.04272845206884,Currentsmoker,6.29,0:06:56,85.55,88.08,72.74,89.31,In state,off-campus,Car,31.0,6.0,1.0
+246,49386,1/11/1993,5-Aug-2013,13-May-2019,2.0,Spanish,Female,Non-athlete,1.735582,77.47820486070162,Nonsmoker,8.678,0:11:25,1.0,70.5,57.16,90.66,In state,on-campus,Walk,1.0,6.0,11.0
+247,27037,10/11/1992,5-Aug-2013,13-May-2019,2.0,botany,Male,Non-athlete,2.09296,149.3227857862126,Currentsmoker,6.698,0:10:25,72.66,74.61,63.23,71.7,Out of state,on-campus,Walk,1.0,9.0,4.0
+248,29009,9/17/1992,5-Aug-2013,13-May-2019,2.0,music,Female,Non-athlete,1.527302,52.53966669993015,3.0,8.598,1.0,75.56,75.68,57.47,74.78,In state,on-campus,Walk,1.0,3.0,3.0
+249,32224,8/9/1992,5-Aug-2013,14-May-2018,2.0,I want to be a doctor,Male,Athlete,1.9177,96.16623272944997,Nonsmoker,5.031,0:08:07,1.0,77.85,63.79,85.42,In state,off-campus,Car,25.0,7.0,4.0
+250,32712,8/3/1992,5-Aug-2013,14-May-2018,2.0,Exercise Science (Exercise Specialist),Male,Non-athlete,1.722374,144.63717103174244,Currentsmoker,5.99,0:05:32,90.29,78.63,65.35,76.83,In state,off-campus,Car,27.0,3.0,9.0
+251,37553,6/6/1992,5-Aug-2013,13-May-2019,2.0,0.0,Male,Non-athlete,1.732788,75.76815959212927,Nonsmoker,8.221,0:09:50,82.86,80.98,67.23,79.49,In state,off-campus,Car,18.0,3.0,5.0
+252,39290,5/14/1992,5-Aug-2013,13-May-2019,2.0,0.0,Female,Non-athlete,1.445768,75.73640808846876,3.0,6.813,1.0,90.43,80.36,57.17,87.33,1.0,on-campus,Walk,1.0,8.0,7.0
+253,40193,5/5/1992,5-Aug-2013,14-May-2018,2.0, spanish language education,Male,Non-athlete,2.042414,145.71218622710492,Currentsmoker,6.832,0:08:55,89.53,83.73,72.98,81.03,Out of state,on-campus,Walk,1.0,4.0,4.0
+254,45784,2/25/1992,5-Aug-2013,13-May-2019,2.0,0.0,Female,Non-athlete,1.55448,0.45359290943563974,Currentsmoker,1.0,0:09:16,1.0,80.79,1.0,76.25,Out of state,off-campus,Car,27.0,2.0,5.0
+255,46911,2/11/1992,5-Aug-2013,13-May-2019,2.0,0.0,Female,Non-athlete,1.9550379999999998,122.38843882392432,Nonsmoker,7.153,0:11:46,77.36,80.47,72.62,89.02,In state,on-campus,Walk,1.0,5.0,4.0
+256,47007,2/10/1992,5-Aug-2013,13-May-2019,2.0,it was biology but I switched to psych,Female,Athlete,1.6289019999999999,69.72630203844655,Nonsmoker,5.551,0:07:23,83.71,83.97,69.37,81.64,In state,on-campus,Walk,1.0,6.0,5.0
+257,48816,1/19/1992,5-Aug-2013,14-May-2018,2.0,Bio,Female,Non-athlete,1.708404,82.99843056853335,Currentsmoker,1.0,0:09:57,86.89,74.5,66.02,83.58,In state,on-campus,Walk,1.0,7.0,5.0
+258,49445,1/13/1992,5-Aug-2013,13-May-2019,2.0,music tech (production),Male,Athlete,2.0500339999999997,93.87558853680001,3.0,4.93,0:06:25,93.57,85.35,66.54,82.41,In state,off-campus,Car,31.0,10.0,1.0
+259,22417,12/7/1991,5-Aug-2013,13-May-2019,2.0,Business,Female,Non-athlete,1.45288,0.45359290943563974,Nonsmoker,1.0,0:07:29,83.75,81.54,51.95,77.56,In state,on-campus,Walk,1.0,13.0,4.0
+260,26199,10/22/1991,5-Aug-2013,14-May-2018,2.0,bphil,Female,Non-athlete,1.6479519999999999,73.84492565612216,Nonsmoker,7.99,0:12:06,83.2,76.03,54.85,85.8,In state,off-campus,Car,20.0,2.0,8.0
+261,29464,9/12/1991,5-Aug-2013,14-May-2018,2.0,wissenschaft,Female,Non-athlete,1.6860519999999999,56.51314058658636,Nonsmoker,9.597,0:13:01,85.52,80.77,50.11,83.67,In state,off-campus,Car,18.0,1.0,9.0
+262,29529,9/11/1991,5-Aug-2013,13-May-2019,2.0,communications,Female,Athlete,1.776476,0.45359290943563974,Nonsmoker,4.637,0:05:51,89.68,90.6,69.89,80.68,In state,off-campus,Car,28.0,1.0,2.0
+263,29757,9/9/1991,5-Aug-2013,13-May-2019,2.0,0.0,Male,Athlete,1.8590259999999998,79.19278605836834,Nonsmoker,5.835,0:07:34,78.74,81.77,70.19,75.83,In state,off-campus,Car,20.0,3.0,9.0
+264,40601,4/30/1991,5-Aug-2013,13-May-2019,2.0,sociology,Male,Athlete,1.7876519999999998,0.45359290943563974,Nonsmoker,1.0,0:05:26,70.35,64.6,60.57,75.92,Out of state,off-campus,Car,35.0,9.0,6.0
+265,41147,4/24/1991,5-Aug-2013,14-May-2018,2.0,0.0,Male,Non-athlete,1.854454,78.666618283423,Nonsmoker,1.0,0:10:07,75.58,74.57,63.84,1.0,Out of state,on-campus,Walk,1.0,4.0,3.0
+266,47835,1/29/1991,5-Aug-2013,13-May-2019,2.0,Undecided,Female,Non-athlete,1.9032220000000002,73.57276991046076,Nonsmoker,9.244,0:11:58,83.79,95.46,67.86,80.03,In state,on-campus,Walk,1.0,8.0,4.0
+267,26262,10/22/1990,5-Aug-2013,14-May-2018,2.0,"Double major in Sociology and Psychology,minor in history",Male,Non-athlete,1.692656,73.06474585189285,Nonsmoker,7.207,0:07:39,83.59,81.11,83.54,76.56,In state,off-campus,Car,28.0,8.0,11.0
+268,28689,9/22/1990,5-Aug-2013,14-May-2018,2.0,journalism,Male,Non-athlete,1.536446,0.45359290943563974,3.0,8.001,0:07:14,90.64,91.65,70.38,78.62,In state,off-campus,Car,38.0,10.0,3.0
+269,39867,5/8/1990,5-Aug-2013,13-May-2019,2.0,biology,Male,Non-athlete,1.6781779999999997,53.065834474875494,Currentsmoker,8.929,1.0,86.91,1.0,73.52,75.85,Out of state,off-campus,Car,30.0,8.0,6.0
+270,22054,12/12/1989,5-Aug-2013,14-May-2018,2.0,0.0,Male,Athlete,1.8204179999999999,0.45359290943563974,Nonsmoker,1.0,1.0,84.96,86.06,56.81,72.0,1.0,off-campus,Car,30.0,8.0,3.0
+271,33017,1.0,5-Aug-2013,13-May-2019,2.0,undecided but leaning toward business,Male,Athlete,1.810512,69.81702062033366,Nonsmoker,4.717,0:06:37,76.75,81.1,51.11,74.47,In state,on-campus,Walk,1.0,3.0,2.0
+272,29103,9/16/1994,6-Aug-2012,14-May-2018,3.0,eduactaion,Male,Non-athlete,1.996948,100.49350908546599,Currentsmoker,1.0,0:11:02,82.87,83.06,71.03,69.87,In state,off-campus,Walk,18.0,7.0,9.0
+273,20758,12/26/1993,6-Aug-2012,14-May-2018,3.0,International Bussness,Male,Athlete,1.628648,78.47610926146002,Nonsmoker,5.005,0:06:42,79.11,83.4,64.08,84.12,In state,off-campus,Car,23.0,5.0,10.0
+274,21345,12/19/1993,6-Aug-2012,14-May-2018,3.0,chemistry,Male,Athlete,1.849374,103.54165343687349,Nonsmoker,1.0,0:05:03,1.0,90.42,75.93,79.71,In state,off-campus,Car,44.0,1.0,19.0
+275,21389,12/19/1993,6-Aug-2012,08-May-2017,3.0,dance,Female,Athlete,1.660906,68.73293356678249,Nonsmoker,1.0,0:08:22,78.95,79.34,64.38,1.0,In state,off-campus,Car,33.0,4.0,5.0
+276,22961,11/30/1993,6-Aug-2012,08-May-2017,3.0,broadcast journalism,Male,Athlete,1.771142,100.66133846195717,Nonsmoker,5.585,0:06:37,82.18,81.02,66.15,79.47,Out of state,off-campus,Car,40.0,11.0,6.0
+277,23155,11/27/1993,6-Aug-2012,14-May-2018,3.0,Anthropology,Female,Athlete,1.767586,0.45359290943563974,Nonsmoker,5.951,0:07:18,1.0,84.15,73.84,85.49,In state,off-campus,Car,25.0,3.0,7.0
+278,24480,11/11/1993,6-Aug-2012,08-May-2017,3.0,comm studies,Male,Athlete,1.9606259999999998,93.91187596955484,Nonsmoker,5.392,0:07:15,86.69,80.53,63.2,70.74,Out of state,off-campus,Walk,15.0,9.0,7.0
+279,26776,10/14/1993,6-Aug-2012,08-May-2017,3.0,Composition,Female,Non-athlete,1.7907,81.00262176701655,pastsmoker,7.744,1.0,79.69,84.04,64.38,80.86,In state,off-campus,Walk,12.0,5.0,10.0
+280,27203,10/8/1993,6-Aug-2012,08-May-2017,3.0,"triple major in math,stats,and biology",Female,Non-athlete,1.956562,100.07620360878519,Nonsmoker,7.423,0:09:52,89.33,95.46,82.45,86.08,In state,off-campus,Bike,8.0,4.0,12.0
+281,27365,10/7/1993,6-Aug-2012,08-May-2017,3.0,poli sci,Female,Non-athlete,1.88976,73.55462619408334,pastsmoker,8.37,0:11:35,78.66,79.62,52.03,85.68,In state,off-campus,Bike,6.0,4.0,3.0
+282,27958,9/30/1993,6-Aug-2012,08-May-2017,3.0,Pre-LawÂ ,Male,Non-athlete,1.6682720000000002,91.31278859848864,Nonsmoker,6.881,0:05:07,1.0,88.39,70.57,78.42,Out of state,off-campus,Car,28.0,1.0,6.0
+283,28874,9/18/1993,6-Aug-2012,14-May-2018,3.0,0.0,Female,Athlete,1.59004,49.86346853425988,Nonsmoker,5.824,0:07:55,83.14,83.74,53.37,81.09,Out of state,off-campus,Car,31.0,10.0,12.0
+284,29507,9/11/1993,6-Aug-2012,14-May-2018,3.0,0.0,Female,Non-athlete,1.8133059999999999,65.63489399533707,Nonsmoker,8.193,0:10:43,94.85,86.33,68.35,1.0,In state,off-campus,Walk,1.0,5.0,12.0
+285,30904,8/24/1993,6-Aug-2012,08-May-2017,3.0,0.0,Female,Non-athlete,1.573276,92.6372798940407,pastsmoker,6.075,0:07:41,77.66,66.99,59.6,76.33,In state,off-campus,Car,19.0,3.0,3.0
+286,31160,8/20/1993,6-Aug-2012,14-May-2018,3.0,0.0,Female,Athlete,1.7178019999999998,76.09474648692292,pastsmoker,5.413,0:06:17,81.45,88.5,64.31,77.29,Out of state,on-campus,Walk,1.0,5.0,9.0
+287,32069,8/11/1993,6-Aug-2012,08-May-2017,3.0,film studies,Male,Athlete,1.79705,73.20989558291225,Nonsmoker,5.595,0:06:27,82.54,83.33,69.79,83.66,In state,off-campus,Public transit,64.0,6.0,4.0
+288,32440,8/5/1993,6-Aug-2012,08-May-2017,3.0,0.0,Female,Athlete,1.6281399999999997,72.00333844381346,Nonsmoker,4.779,0:06:13,89.73,84.52,71.87,86.49,In state,off-campus,Car,17.0,2.0,7.0
+289,32657,8/4/1993,6-Aug-2012,08-May-2017,3.0,0.0,Male,Non-athlete,1.970532,0.45359290943563974,Nonsmoker,6.333,0:06:04,78.08,70.9,61.43,79.37,In state,off-campus,Car,30.0,3.0,17.0
+290,33204,7/28/1993,6-Aug-2012,08-May-2017,3.0,0.0,Male,Athlete,1.9146519999999998,74.33027006921829,Nonsmoker,5.141,0:06:28,92.32,86.05,62.61,79.61,In state,on-campus,Walk,1.0,8.0,3.0
+291,34212,7/15/1993,6-Aug-2012,14-May-2018,3.0,epidemiology,Female,Athlete,1.769364,0.45359290943563974,pastsmoker,5.795,0:07:34,82.98,84.31,67.97,90.9,Out of state,off-campus,Walk,10.0,6.0,16.0
+292,36657,6/15/1993,6-Aug-2012,14-May-2018,3.0,Chemstry,Female,Non-athlete,1.7960339999999997,76.95657301485063,Currentsmoker,8.232,0:11:07,91.91,91.58,67.08,85.88,In state,off-campus,Car,28.0,3.0,9.0
+293,37328,6/8/1993,6-Aug-2012,14-May-2018,3.0,jhlksjhreksh,Male,Athlete,0.0254,97.9851402962869,Currentsmoker,5.867,0:06:47,88.57,83.81,63.18,75.69,In state,off-campus,Car,30.0,5.0,9.0
+294,37333,6/7/1993,6-Aug-2012,14-May-2018,3.0,political science,Female,Non-athlete,1.6421100000000002,68.14326278451615,Nonsmoker,6.566,0:07:32,89.12,1.0,69.9,86.33,In state,off-campus,Car,30.0,4.0,15.0
+295,37881,5/30/1993,6-Aug-2012,08-May-2017,3.0,0.0,Female,Non-athlete,1.9641819999999999,91.9296749553211,Nonsmoker,7.394,0:10:44,1.0,80.21,63.59,86.54,Out of state,off-campus,Car,23.0,6.0,5.0
+296,38631,5/23/1993,6-Aug-2012,14-May-2018,3.0,0.0,Male,Athlete,1.7289779999999997,86.55006304941442,Nonsmoker,1.0,0:06:57,94.67,94.17,81.01,86.68,1.0,off-campus,Car,32.0,7.0,8.0
+297,39033,5/17/1993,6-Aug-2012,08-May-2017,3.0,biology,Female,Athlete,1.719326,74.39830900563364,Nonsmoker,5.791,1.0,80.97,70.75,60.08,76.89,Out of state,off-campus,Car,28.0,7.0,9.0
+298,39816,5/7/1993,6-Aug-2012,14-May-2018,3.0,0.0,Female,Non-athlete,1.624584,83.9192241746877,3.0,8.274,0:09:56,78.85,85.44,62.8,76.39,Out of state,off-campus,Car,26.0,1.0,14.0
+299,40662,4/29/1993,6-Aug-2012,14-May-2018,3.0,English with minor in spanish,Male,Athlete,1.933448,100.1397066161062,Currentsmoker,5.671,0:07:42,81.41,74.4,65.1,76.24,Out of state,off-campus,Car,25.0,4.0,4.0
+300,40916,4/25/1993,6-Aug-2012,08-May-2017,3.0,biotechnology,Female,Non-athlete,1.7907,125.09638849325509,Nonsmoker,7.276,0:10:42,91.25,97.69,77.73,83.53,Out of state,off-campus,Car,27.0,6.0,1.0
+301,42216,4/9/1993,6-Aug-2012,08-May-2017,3.0,nursing,Male,Non-athlete,1.769364,67.30865183115458,pastsmoker,7.767,0:08:26,87.73,80.76,54.12,71.37,Out of state,off-campus,Car,25.0,2.0,4.0
+302,42474,4/6/1993,6-Aug-2012,14-May-2018,3.0,epidemeology,Female,Non-athlete,1.71831,97.69484083424808,Nonsmoker,7.266,1.0,81.29,84.1,1.0,74.3,Out of state,off-campus,Walk,14.0,2.0,6.0
+303,43255,3/29/1993,6-Aug-2012,08-May-2017,3.0,polisci,Male,Non-athlete,1.665224,84.46353566601049,pastsmoker,6.363,0:06:16,79.12,76.14,72.92,71.0,In state,off-campus,Car,23.0,7.0,4.0
+304,48033,1/26/1993,6-Aug-2012,08-May-2017,3.0,0.0,Female,Athlete,1.748536,79.69173825874755,Nonsmoker,4.621,0:07:11,83.89,75.34,53.49,72.11,In state,off-campus,Walk,11.0,5.0,1.0
+305,20243,1/2/1993,6-Aug-2012,08-May-2017,3.0,spanish,Female,Non-athlete,1.6761459999999997,58.24132957153615,pastsmoker,8.097,0:12:31,81.96,82.52,64.05,81.58,In state,off-campus,Car,21.0,3.0,7.0
+306,22029,12/11/1992,6-Aug-2012,14-May-2018,3.0,0.0,Female,Athlete,1.655318,0.45359290943563974,Nonsmoker,6.33,0:06:48,78.98,91.92,74.43,77.14,Out of state,off-campus,Bike,13.0,7.0,22.0
+307,22147,12/9/1992,6-Aug-2012,14-May-2018,3.0,statistics,Female,Non-athlete,1.553718,57.52465277462783,Currentsmoker,7.12,0:09:09,85.67,91.34,1.0,88.33,In state,off-campus,Bike,4.0,5.0,15.0
+308,22938,11/30/1992,6-Aug-2012,14-May-2018,3.0,mechanical engineering,Male,Non-athlete,1.875536,118.42403679545681,Nonsmoker,6.43,1.0,75.56,1.0,57.61,1.0,Out of state,off-campus,Car,23.0,3.0,9.0
+309,23514,11/22/1992,6-Aug-2012,08-May-2017,3.0,religious studies,Female,Non-athlete,0.0254,52.24936723789134,Currentsmoker,8.314,0:10:43,87.76,80.41,46.68,83.13,Out of state,off-campus,Car,32.0,0.0,4.0
+310,25866,10/25/1992,6-Aug-2012,08-May-2017,3.0,Geography,Female,Athlete,1.7091660000000002,71.70396712358594,Nonsmoker,6.212,0:07:01,77.78,85.61,65.15,76.63,In state,off-campus,Car,27.0,5.0,10.0
+311,26223,10/20/1992,6-Aug-2012,08-May-2017,3.0,0.0,Female,Non-athlete,1.6934179999999999,101.80439259373499,Nonsmoker,1.0,0:07:57,87.29,89.62,69.11,1.0,In state,off-campus,Car,39.0,4.0,17.0
+312,26843,10/13/1992,6-Aug-2012,08-May-2017,3.0,natural science,Female,Non-athlete,1.453896,77.11079460405875,Nonsmoker,1.0,0:09:27,81.0,86.66,69.38,1.0,In state,off-campus,Car,25.0,9.0,8.0
+313,27177,10/9/1992,6-Aug-2012,08-May-2017,3.0,0.0,Female,Athlete,1.629156,0.45359290943563974,Nonsmoker,5.974,0:06:42,88.15,73.14,46.66,85.12,In state,off-campus,Car,22.0,7.0,10.0
+314,27638,10/4/1992,6-Aug-2012,14-May-2018,3.0,graphic design,Male,Non-athlete,1.7777459999999998,132.32665946965918,Nonsmoker,7.46,1.0,1.0,69.84,60.41,86.99,Out of state,off-campus,Walk,16.0,5.0,5.0
+315,28044,9/29/1992,6-Aug-2012,08-May-2017,3.0,Psyc,Male,Non-athlete,1.888998,0.45359290943563974,Nonsmoker,1.0,0:08:40,85.18,96.12,73.09,75.36,In state,off-campus,Car,33.0,4.0,9.0
+316,49806,9/22/1992,6-Aug-2012,08-May-2017,3.0,Art education,Female,Non-athlete,1.605788,57.91927860583684,3.0,7.616,0:09:20,78.3,1.0,77.03,78.7,In state,on-campus,Walk,1.0,3.0,4.0
+317,29967,9/6/1992,6-Aug-2012,08-May-2017,3.0,pre-med,Male,Non-athlete,1.886712,119.8211029565186,Nonsmoker,6.091,0:08:06,73.27,82.94,70.89,76.99,In state,off-campus,Car,30.0,6.0,19.0
+318,30337,8/31/1992,6-Aug-2012,08-May-2017,3.0,0.0,Female,Athlete,1.64973,68.21583765002586,Nonsmoker,5.619,0:07:40,81.75,81.38,56.27,82.77,In state,off-campus,Car,27.0,4.0,8.0
+319,33162,7/28/1992,6-Aug-2012,14-May-2018,3.0,social work,Male,Non-athlete,0.0254,92.77789369596574,Currentsmoker,5.451,0:06:24,81.73,86.8,67.03,77.71,In state,on-campus,Walk,1.0,6.0,10.0
+320,34690,7/8/1992,6-Aug-2012,14-May-2018,3.0,0.0,Female,Non-athlete,1.449324,51.57351380283224,Currentsmoker,7.993,0:10:02,83.34,75.52,67.0,78.89,In state,on-campus,Walk,1.0,2.0,14.0
+321,36009,6/25/1992,6-Aug-2012,08-May-2017,3.0,English - Creative writing,Male,Non-athlete,1.8280379999999998,93.18159138536348,Nonsmoker,7.954,1.0,84.25,84.65,60.12,83.74,In state,off-campus,Bike,12.0,5.0,14.0
+322,38020,5/29/1992,6-Aug-2012,14-May-2018,3.0,creative writing,Female,Non-athlete,1.5857219999999999,77.62335459172103,pastsmoker,7.17,0:08:57,86.2,79.24,59.85,75.76,1.0,off-campus,Walk,15.0,3.0,11.0
+323,39181,5/17/1992,6-Aug-2012,08-May-2017,3.0,0.0,Male,Non-athlete,0.0254,98.12575409821196,Currentsmoker,8.892,0:10:28,88.44,72.81,62.49,79.9,In state,off-campus,Walk,18.0,2.0,6.0
+324,40229,5/4/1992,6-Aug-2012,08-May-2017,3.0,Liberal Studies,Male,Non-athlete,1.863598,82.01413395505803,Nonsmoker,7.383,1.0,84.12,86.28,67.47,78.8,In state,off-campus,Car,31.0,6.0,8.0
+325,41425,4/17/1992,6-Aug-2012,08-May-2017,3.0,0.0,Female,Non-athlete,1.581658,68.13872685542181,pastsmoker,1.0,0:08:18,79.44,91.34,68.44,80.72,Out of state,off-campus,Car,31.0,3.0,7.0
+326,44698,3/8/1992,6-Aug-2012,14-May-2018,3.0,0.0,Female,Non-athlete,1.6725899999999998,62.50963884932551,Nonsmoker,7.135,1.0,83.97,80.5,69.57,84.09,In state,off-campus,Car,32.0,2.0,4.0
+327,45041,3/4/1992,6-Aug-2012,08-May-2017,3.0,0.0,Female,Non-athlete,1.6741139999999999,72.81526975170325,Nonsmoker,1.0,0:10:33,81.02,88.09,68.74,83.97,In state,off-campus,Car,27.0,6.0,10.0
+328,45095,3/3/1992,6-Aug-2012,08-May-2017,3.0,fine arts,Female,Athlete,1.7670779999999997,69.48589779644566,Nonsmoker,5.153,1.0,84.5,76.92,68.0,92.34,Out of state,off-campus,Car,32.0,6.0,9.0
+329,45788,2/24/1992,6-Aug-2012,14-May-2018,3.0,Public Relations,Female,Athlete,0.0254,75.13312951891936,Nonsmoker,5.772,0:05:18,83.46,87.08,64.73,85.32,In state,off-campus,Car,25.0,6.0,5.0
+330,46912,2/13/1992,6-Aug-2012,14-May-2018,3.0,0.0,Male,Non-athlete,1.57734,59.280057334143756,Currentsmoker,7.973,0:05:57,1.0,81.27,1.0,76.42,In state,off-campus,Car,32.0,7.0,5.0
+331,47122,2/7/1992,6-Aug-2012,14-May-2018,3.0,0.0,Female,Non-athlete,1.575054,80.42202284293893,Nonsmoker,7.186,0:10:38,77.71,99.35,85.57,87.08,In state,off-campus,Car,29.0,9.0,6.0
+332,47676,2/3/1992,6-Aug-2012,08-May-2017,3.0,early childhood education,Male,Non-athlete,0.0254,82.18196333154921,pastsmoker,7.109,0:08:59,88.45,88.33,71.93,78.05,In state,off-campus,Car,32.0,1.0,18.0
+333,48702,1/22/1992,6-Aug-2012,14-May-2018,3.0,0.0,Male,Non-athlete,1.586484,70.44297883535485,Currentsmoker,7.853,0:08:13,84.65,68.73,55.84,73.04,Out of state,off-campus,Car,32.0,7.0,4.0
+334,48976,1/19/1992,6-Aug-2012,14-May-2018,3.0,0.0,Male,Athlete,1.867154,79.32886393119902,Currentsmoker,5.845,0:07:15,85.37,71.2,58.1,77.72,In state,off-campus,Car,20.0,4.0,8.0
+335,49137,1/17/1992,6-Aug-2012,14-May-2018,3.0,Philosophey,Male,Athlete,1.660398,64.65513331095609,Currentsmoker,5.941,0:06:40,79.81,66.57,60.05,77.09,In state,off-campus,Walk,16.0,7.0,9.0
+336,49165,1/16/1992,6-Aug-2012,14-May-2018,3.0,0.0,Other,Athlete,1.6845279999999998,84.32292186408543,Currentsmoker,5.846,0:07:11,90.18,91.35,61.72,75.24,In state,off-campus,Car,26.0,4.0,9.0
+337,49931,1/8/1992,6-Aug-2012,14-May-2018,3.0,0.0,Male,Athlete,1.7157699999999998,71.98519472743602,Nonsmoker,5.14,0:06:01,84.34,1.0,63.7,75.77,In state,off-campus,Public transit,62.0,5.0,10.0
+338,23871,11/20/1991,6-Aug-2012,14-May-2018,3.0,military history,Male,Non-athlete,0.0254,134.81234861336648,Nonsmoker,6.992,0:08:07,100.78,73.73,60.88,83.99,In state,off-campus,Car,22.0,4.0,6.0
+339,26771,10/15/1991,6-Aug-2012,14-May-2018,3.0,Special Education,Female,Athlete,1.729486,56.28634413186854,pastsmoker,6.641,0:08:41,92.2,83.69,69.35,91.78,In state,off-campus,Car,24.0,4.0,1.0
+340,30329,9/2/1991,6-Aug-2012,14-May-2018,3.0,0.0,Male,Non-athlete,1.7269459999999999,97.90802950168283,Currentsmoker,6.082,0:06:44,82.28,81.52,65.08,77.4,In state,off-campus,Car,20.0,5.0,14.0
+341,31549,8/18/1991,6-Aug-2012,08-May-2017,3.0,sports medicine,Male,Non-athlete,1.811274,110.98057715161796,Nonsmoker,7.452,0:07:57,76.51,80.59,71.18,84.17,Out of state,off-campus,Bike,10.0,5.0,1.0
+342,35681,6/28/1991,6-Aug-2012,14-May-2018,3.0,Arcitecture,Female,Non-athlete,1.545336,48.520833522330385,Nonsmoker,7.374,1.0,85.45,82.44,46.14,76.75,In state,off-campus,Car,29.0,9.0,12.0
+343,36100,6/23/1991,6-Aug-2012,14-May-2018,3.0,0.0,Male,Non-athlete,1.6639540000000002,97.34103836488829,Nonsmoker,6.798,0:08:40,95.86,81.47,65.64,87.96,In state,off-campus,Car,24.0,4.0,16.0
+344,36863,6/13/1991,6-Aug-2012,08-May-2017,3.0,0.0,Female,Athlete,1.672844,69.99392185501357,Nonsmoker,5.079,0:07:58,89.37,82.52,60.47,1.0,In state,off-campus,Car,35.0,5.0,9.0
+345,49821,5/24/1991,6-Aug-2012,08-May-2017,3.0,Biology (Pre-med),Female,Athlete,1.733042,74.52985094936997,pastsmoker,5.637,0:07:48,71.93,67.04,62.64,1.0,Out of state,off-campus,Car,32.0,4.0,1.0
+346,41406,4/19/1991,6-Aug-2012,14-May-2018,3.0,spanish and french,Female,Non-athlete,1.5158719999999999,0.45359290943563974,Nonsmoker,7.136,0:09:53,83.86,74.11,61.29,82.26,In state,off-campus,Bike,8.0,6.0,9.0
+347,46722,2/13/1991,6-Aug-2012,14-May-2018,3.0,physik,Female,Athlete,1.8237199999999998,68.9597300215003,pastsmoker,6.481,0:08:12,97.49,78.84,64.89,88.09,1.0,off-campus,Car,21.0,1.0,10.0
+348,48295,1/25/1991,6-Aug-2012,14-May-2018,3.0,0.0,Female,Non-athlete,1.647698,92.32883671562448,Nonsmoker,6.895,0:07:49,84.41,84.5,72.06,91.38,In state,off-campus,Car,24.0,3.0,19.0
+349,21256,12/21/1990,6-Aug-2012,14-May-2018,3.0,Pre-law,Female,Non-athlete,1.600708,91.5668006277726,Nonsmoker,8.232,0:08:36,77.96,80.23,56.93,77.73,In state,off-campus,Car,22.0,1.0,6.0
+350,24904,11/6/1990,6-Aug-2012,14-May-2018,3.0,0.0,Female,Non-athlete,1.4907259999999998,61.54802188132196,Nonsmoker,7.024,0:07:38,86.8,83.24,64.88,86.69,In state,off-campus,Car,38.0,6.0,8.0
+351,25251,11/3/1990,6-Aug-2012,14-May-2018,3.0,management,Male,Athlete,1.885442,0.45359290943563974,Nonsmoker,4.631,0:06:16,93.63,98.19,79.65,73.97,In state,on-campus,Walk,1.0,4.0,4.0
+352,26034,10/24/1990,6-Aug-2012,08-May-2017,3.0,aaaaaaaaaaaaaa,Female,Athlete,1.6924019999999997,69.45414629278515,Nonsmoker,1.0,0:07:44,89.29,96.8,93.78,88.77,Out of state,off-campus,Car,22.0,7.0,10.0
+353,30424,9/1/1990,6-Aug-2012,14-May-2018,3.0,0.0,Male,Non-athlete,1.89103,86.39130553111195,Nonsmoker,8.047,0:05:59,79.59,83.55,67.99,73.9,Out of state,off-campus,Car,27.0,1.0,11.0
+354,30968,8/24/1990,6-Aug-2012,08-May-2017,3.0,Geology,Female,Non-athlete,1.819148,0.45359290943563974,Nonsmoker,6.989,0:09:13,78.0,81.51,62.14,74.13,In state,off-campus,Car,36.0,3.0,1.0
+355,31419,8/20/1990,6-Aug-2012,14-May-2018,3.0,0.0,Male,Non-athlete,1.5519399999999999,75.70919251390262,Nonsmoker,6.614,0:06:39,95.81,95.42,74.81,72.48,In state,off-campus,Car,33.0,1.0,3.0
+356,35048,7/5/1990,6-Aug-2012,08-May-2017,3.0,Performing arts,Female,Non-athlete,1.8460720000000002,122.60162749135908,pastsmoker,1.0,0:09:41,91.35,86.26,58.31,77.66,In state,off-campus,Car,36.0,3.0,11.0
+357,36681,6/18/1990,6-Aug-2012,08-May-2017,3.0,Geography,Male,Non-athlete,1.5623539999999998,69.82155654942802,Currentsmoker,6.769,0:06:55,87.6,85.4,60.27,73.29,In state,off-campus,Walk,9.0,5.0,9.0
+358,38928,5/19/1990,6-Aug-2012,08-May-2017,3.0,Architecture,Female,Non-athlete,1.670304,86.42305703477244,pastsmoker,7.285,0:12:39,79.14,69.98,50.42,1.0,In state,off-campus,Car,34.0,9.0,10.0
+359,42520,4/6/1990,6-Aug-2012,08-May-2017,3.0,athletic training,Male,Non-athlete,1.7980660000000002,89.29430015150004,Nonsmoker,7.068,0:07:32,85.68,77.2,70.87,69.61,In state,off-campus,Car,33.0,3.0,8.0
+360,46857,2/13/1990,6-Aug-2012,14-May-2018,3.0,0.0,Male,Non-athlete,1.888236,136.18673512895649,Nonsmoker,6.284,1.0,93.34,92.08,71.69,79.27,In state,off-campus,Public transit,53.0,4.0,11.0
+361,22652,12/4/1989,6-Aug-2012,14-May-2018,3.0,0.0,Female,Non-athlete,0.0254,57.683410292930304,Nonsmoker,7.226,0:10:28,76.69,70.11,53.54,78.82,In state,off-campus,Walk,13.0,3.0,4.0
+362,30070,9/5/1989,6-Aug-2012,14-May-2018,3.0,Education - Pre-K,Male,Athlete,1.8879819999999998,0.45359290943563974,3.0,5.772,0:06:34,76.55,81.33,61.31,79.3,In state,off-campus,Bike,9.0,9.0,9.0
+363,37310,6/8/1989,6-Aug-2012,08-May-2017,3.0,school psych,Female,Athlete,1.67005,76.71616877284974,pastsmoker,4.889,0:06:39,90.76,93.96,69.55,82.52,In state,on-campus,Walk,1.0,1.0,12.0
+364,49854,2/24/1989,6-Aug-2012,08-May-2017,3.0,0.0,Male,Non-athlete,1.5951199999999999,116.13339260280684,3.0,6.283,0:05:14,81.22,86.67,66.44,78.63,In state,off-campus,Car,24.0,7.0,11.0
+365,32786,8/2/1988,6-Aug-2012,14-May-2018,3.0,0.0,Female,Non-athlete,1.677162,95.81696618918454,Nonsmoker,6.787,0:10:21,82.95,83.26,68.23,82.78,In state,off-campus,Car,28.0,4.0,11.0
+366,33358,7/26/1988,6-Aug-2012,14-May-2018,3.0,History,Female,Non-athlete,0.0254,70.60173635365733,Nonsmoker,1.0,0:10:17,85.83,97.22,77.92,73.17,In state,off-campus,Car,27.0,3.0,8.0
+367,36691,6/17/1988,6-Aug-2012,08-May-2017,3.0,German,Male,Non-athlete,0.0254,0.45359290943563974,Nonsmoker,6.924,0:07:56,70.35,75.49,59.63,75.31,In state,on-campus,Walk,1.0,8.0,8.0
+368,30268,9/3/1985,6-Aug-2012,08-May-2017,3.0,0.0,Male,Non-athlete,1.8689319999999998,144.99097350110225,pastsmoker,6.535,0:07:26,81.1,87.48,71.3,72.35,In state,off-campus,Car,22.0,4.0,11.0
+369,33692,1.0,6-Aug-2012,08-May-2017,3.0,communications,Male,Athlete,0.0254,85.18474839201315,Nonsmoker,5.357,0:05:18,72.0,80.06,70.34,74.8,Out of state,off-campus,Car,22.0,6.0,16.0
+370,31434,8/19/1992,1-Aug-2011,08-May-2017,4.0,thaeter,Male,Non-athlete,1.56845,82.65823588645662,Currentsmoker,6.801,0:05:07,92.32,91.04,73.11,73.45,In state,off-campus,Car,27.0,3.0,6.0
+371,45762,2/24/1992,1-Aug-2011,09-May-2016,4.0,Computer Science,Female,Non-athlete,1.677416,0.45359290943563974,Currentsmoker,8.62,0:12:17,78.33,85.84,62.68,81.88,In state,off-campus,Car,25.0,4.0,13.0
+372,21421,12/19/1991,1-Aug-2011,09-May-2016,4.0,Environmental science,Female,Athlete,1.609852,0.45359290943563974,Nonsmoker,5.08,0:07:26,85.87,95.07,72.42,84.3,In state,off-campus,Bike,10.0,4.0,8.0
+373,21610,12/17/1991,1-Aug-2011,08-May-2017,4.0,Paleontology,Male,Athlete,1.8300699999999999,80.28594497010823,Nonsmoker,5.124,0:05:51,94.38,89.54,82.12,82.54,In state,off-campus,Car,28.0,3.0,12.0
+374,22240,12/9/1991,1-Aug-2011,08-May-2017,4.0,biomed engineering,Female,Athlete,1.6852899999999997,62.704683800382846,Nonsmoker,1.0,0:07:17,86.28,88.13,62.92,90.27,Out of state,off-campus,Car,25.0,4.0,13.0
+375,23659,11/22/1991,1-Aug-2011,08-May-2017,4.0,Math,Male,Non-athlete,1.7734279999999998,124.58836443468718,Nonsmoker,1.0,0:07:22,83.23,84.39,59.27,75.95,Out of state,off-campus,Car,28.0,3.0,6.0
+376,29470,9/12/1991,1-Aug-2011,09-May-2016,4.0,0.0,Female,Athlete,1.740662,65.17676515680708,Nonsmoker,4.77,0:06:03,75.43,79.27,66.95,76.09,Out of state,off-campus,Car,32.0,10.0,9.0
+377,31575,8/18/1991,1-Aug-2011,08-May-2017,4.0,Latin,Male,Athlete,1.6705579999999998,75.80444702488411,Nonsmoker,4.974,0:05:29,76.02,71.41,72.19,72.54,In state,off-campus,Car,33.0,5.0,9.0
+378,32404,8/8/1991,1-Aug-2011,08-May-2017,4.0,Hahahaha,Male,Non-athlete,1.6786860000000001,65.91158567009282,Nonsmoker,8.997,0:09:25,84.45,89.39,75.19,1.0,In state,off-campus,Walk,21.0,7.0,1.0
+379,32929,8/1/1991,1-Aug-2011,09-May-2016,4.0,humanities,Male,Athlete,1.6924019999999997,76.92935744028449,Nonsmoker,1.0,1.0,1.0,78.35,55.21,70.56,Out of state,off-campus,Car,30.0,2.0,1.0
+380,33022,8/1/1991,1-Aug-2011,09-May-2016,4.0,0.0,Male,Athlete,1.80213,71.38191615788662,Nonsmoker,5.771,0:06:19,87.37,84.39,70.13,75.07,In state,off-campus,Walk,9.0,5.0,12.0
+381,33348,7/26/1991,1-Aug-2011,08-May-2017,4.0,0.0,Female,Athlete,1.693672,65.43531311518538,Nonsmoker,6.16,0:06:27,82.61,76.39,53.91,85.18,Out of state,on-campus,Walk,1.0,3.0,14.0
+382,34469,7/14/1991,1-Aug-2011,08-May-2017,4.0,Spanish,Male,Athlete,1.8613119999999999,84.77651477352107,3.0,5.341,0:07:44,87.01,83.46,61.09,79.6,Out of state,off-campus,Car,32.0,5.0,14.0
+383,35684,6/29/1991,1-Aug-2011,08-May-2017,4.0,0.0,Male,Non-athlete,0.0254,75.8679500322051,Nonsmoker,5.595,0:06:14,1.0,86.65,63.07,71.33,In state,off-campus,Walk,10.0,2.0,7.0
+384,36404,6/21/1991,1-Aug-2011,08-May-2017,4.0,Gender Studies,Male,Non-athlete,1.694688,86.21440429643204,Nonsmoker,8.112,0:09:44,1.0,63.48,63.19,80.27,In state,off-campus,Walk,1.0,4.0,1.0
+385,38644,5/25/1991,1-Aug-2011,08-May-2017,4.0,Computer Programming,Male,Non-athlete,1.8999199999999998,89.45759359889686,Currentsmoker,8.177,0:10:26,79.38,82.64,66.51,1.0,Out of state,off-campus,Walk,15.0,4.0,14.0
+386,40900,4/27/1991,1-Aug-2011,08-May-2017,4.0,don't know yet,Male,Athlete,1.8214339999999998,90.859195689053,Nonsmoker,1.0,1.0,92.22,88.87,63.82,88.8,In state,off-campus,Car,32.0,5.0,11.0
+387,41762,4/17/1991,1-Aug-2011,08-May-2017,4.0,Forensic  science,Male,Athlete,1.66243,80.25419346644775,Nonsmoker,5.234,0:06:45,79.18,86.06,63.77,70.28,Out of state,off-campus,Car,28.0,4.0,13.0
+388,43596,3/24/1991,1-Aug-2011,09-May-2016,4.0,Art History,Male,Athlete,1.7670779999999997,82.78977783019297,Nonsmoker,4.748,0:06:20,70.73,84.95,75.84,76.98,In state,off-campus,Bike,7.0,7.0,11.0
+389,44640,3/10/1991,1-Aug-2011,08-May-2017,4.0,0.0,Female,Athlete,1.699006,57.66980250564724,Nonsmoker,4.81,0:07:17,83.17,95.24,69.33,78.4,In state,off-campus,Car,21.0,4.0,7.0
+390,47709,2/3/1991,1-Aug-2011,09-May-2016,4.0,nutrition,Male,Non-athlete,2.137664,94.3745407371792,pastsmoker,8.034,0:06:25,89.25,87.09,66.9,80.91,In state,off-campus,Walk,14.0,10.0,6.0
+391,48238,1/28/1991,1-Aug-2011,08-May-2017,4.0,0.0,Male,Non-athlete,1.7078959999999999,123.64035525396667,Currentsmoker,5.295,0:08:15,78.9,68.82,62.43,75.59,In state,off-campus,Walk,20.0,1.0,12.0
+392,48112,1/27/1991,1-Aug-2011,09-May-2016,4.0,History,Female,Athlete,1.6896079999999998,75.55950685378887,Nonsmoker,6.364,0:07:54,77.66,87.67,75.85,1.0,In state,off-campus,Car,32.0,4.0,10.0
+393,22167,12/10/1990,1-Aug-2011,09-May-2016,4.0,stage management,Male,Non-athlete,1.702308,97.49979588319076,Nonsmoker,7.61,0:09:01,80.08,75.46,71.2,74.78,In state,off-campus,Car,37.0,4.0,16.0
+394,23717,11/21/1990,1-Aug-2011,09-May-2016,4.0,0.0,Female,Non-athlete,1.50495,50.17644764177047,Nonsmoker,7.419,0:08:17,85.03,81.98,72.9,85.7,Out of state,off-campus,Car,33.0,5.0,23.0
+395,25875,10/26/1990,1-Aug-2011,08-May-2017,4.0,0.0,Female,Non-athlete,1.839214,0.45359290943563974,Nonsmoker,7.571,0:11:25,78.41,88.07,66.28,82.75,1.0,on-campus,Car,26.0,8.0,4.0
+396,26367,10/19/1990,1-Aug-2011,09-May-2016,4.0,Ethnomusicology,Female,Non-athlete,1.773936,79.0521722564433,Nonsmoker,6.969,0:10:15,77.24,72.75,63.06,84.48,In state,off-campus,Public transit,59.0,4.0,1.0
+397,26510,10/18/1990,1-Aug-2011,09-May-2016,4.0,0.0,Male,Athlete,1.690624,89.04935998040479,Nonsmoker,5.002,0:07:26,99.56,85.94,80.59,79.12,In state,off-campus,Car,26.0,4.0,11.0
+398,27209,10/9/1990,1-Aug-2011,08-May-2017,4.0,0.0,Female,Athlete,1.683512,74.02182689080205,Nonsmoker,6.167,1.0,81.37,72.15,58.36,87.49,In state,off-campus,Car,29.0,3.0,12.0
+399,29115,9/17/1990,1-Aug-2011,08-May-2017,4.0,athletic trainer,Male,Athlete,1.8412459999999997,98.56120329127016,Nonsmoker,5.55,0:06:20,86.3,92.01,65.03,76.4,In state,off-campus,Bike,9.0,5.0,1.0
+400,31078,8/23/1990,1-Aug-2011,09-May-2016,4.0,0.0,Female,Non-athlete,1.7995899999999998,68.93705037602852,Nonsmoker,1.0,0:13:39,82.12,69.32,58.7,84.21,In state,off-campus,Car,28.0,5.0,1.0
+401,34362,7/13/1990,1-Aug-2011,09-May-2016,4.0,0.0,Female,Non-athlete,1.594866,70.28422131705237,pastsmoker,7.268,0:10:40,78.07,75.3,60.59,80.5,In state,off-campus,Car,35.0,7.0,15.0
+402,34581,7/12/1990,1-Aug-2011,08-May-2017,4.0,nutrition,Male,Non-athlete,1.562862,0.45359290943563974,Nonsmoker,6.685,0:08:07,89.06,1.0,64.93,69.07,Out of state,off-campus,Car,30.0,0.0,6.0
+403,34591,7/11/1990,1-Aug-2011,09-May-2016,4.0,Comp Sci,Female,Non-athlete,1.7190720000000002,70.43844290626049,3.0,8.408,0:10:59,79.43,75.91,59.55,78.19,Out of state,off-campus,Walk,11.0,7.0,18.0
+404,35886,6/27/1990,1-Aug-2011,09-May-2016,4.0,Chemical Engineering,Male,Athlete,1.892046,97.08249040650998,Nonsmoker,4.984,0:06:44,80.02,84.81,64.96,67.97,In state,off-campus,Car,20.0,6.0,10.0
+405,37713,6/4/1990,1-Aug-2011,09-May-2016,4.0,fnrech,Male,Athlete,1.8681699999999999,82.31350527528555,Nonsmoker,1.0,0:06:52,70.76,80.71,69.43,74.74,In state,off-campus,Walk,23.0,3.0,1.0
+406,39415,5/13/1990,1-Aug-2011,09-May-2016,4.0,0.0,Female,Non-athlete,1.602994,0.45359290943563974,Nonsmoker,6.96,0:10:08,83.7,82.0,56.14,84.95,Out of state,off-campus,Walk,20.0,5.0,9.0
+407,40313,5/3/1990,1-Aug-2011,09-May-2016,4.0,0.0,Female,Athlete,1.6454119999999999,76.60277054549084,Nonsmoker,5.584,0:06:53,81.33,77.14,52.83,81.41,In state,off-campus,Car,29.0,3.0,12.0
+408,41168,4/23/1990,1-Aug-2011,08-May-2017,4.0,HDFS,Male,Athlete,2.053844,102.72972212898368,Nonsmoker,5.998,0:06:10,73.63,79.24,71.05,78.69,In state,off-campus,Car,24.0,4.0,10.0
+409,41165,4/21/1990,1-Aug-2011,09-May-2016,4.0,0.0,Female,Non-athlete,1.8595339999999998,73.35504531393165,Nonsmoker,8.783,0:13:40,80.14,86.07,74.68,88.19,Out of state,off-campus,Car,23.0,8.0,6.0
+410,42826,4/3/1990,1-Aug-2011,09-May-2016,4.0,Political Science,Male,Athlete,1.6995139999999997,71.05532926309297,pastsmoker,5.648,0:07:08,83.41,86.06,77.26,79.55,In state,off-campus,Public transit,53.0,5.0,5.0
+411,43676,3/21/1990,1-Aug-2011,08-May-2017,4.0,0.0,Female,Non-athlete,1.7490439999999998,60.33239288403444,Nonsmoker,7.62,0:11:38,87.0,81.94,47.07,78.77,Out of state,off-campus,Car,37.0,3.0,1.0
+412,44968,3/9/1990,1-Aug-2011,08-May-2017,4.0,psychology,Male,Non-athlete,2.050542,102.32148851049162,Nonsmoker,7.079,0:06:45,88.62,78.27,68.66,77.58,In state,off-campus,Car,28.0,3.0,10.0
+413,45928,2/22/1990,1-Aug-2011,09-May-2016,4.0,0.0,Female,Non-athlete,1.750314,65.39448975333617,Currentsmoker,9.159,0:14:02,81.07,85.37,1.0,78.32,In state,off-campus,Car,38.0,5.0,10.0
+414,46439,2/16/1990,1-Aug-2011,09-May-2016,4.0,bachelor of fine arts in theater,Female,Non-athlete,1.60655,86.72242835499996,Nonsmoker,6.9,0:09:17,84.35,74.53,55.72,86.93,In state,off-campus,Walk,9.0,6.0,13.0
+415,48958,1/17/1990,1-Aug-2011,09-May-2016,4.0,Fein Arts,Female,Athlete,1.679956,72.112200742078,Currentsmoker,7.079,0:07:58,85.75,77.39,44.7,80.65,In state,off-campus,Car,31.0,8.0,7.0
+416,49572,1/9/1990,1-Aug-2011,09-May-2016,4.0,Sport Medicine,Female,Non-athlete,1.541272,55.447197249412596,Currentsmoker,7.747,0:09:05,75.69,78.1,47.1,79.72,In state,off-campus,Car,31.0,7.0,7.0
+417,21254,12/21/1989,1-Aug-2011,09-May-2016,4.0,0.0,Male,Athlete,1.83261,0.45359290943563974,Nonsmoker,5.203,0:08:56,71.87,93.95,1.0,75.98,In state,off-campus,Car,31.0,8.0,9.0
+418,23037,11/29/1989,1-Aug-2011,08-May-2017,4.0,Speech Pathology and Audiology,Female,Non-athlete,1.615694,86.7088205677169,Currentsmoker,6.587,0:09:01,1.0,64.68,64.67,84.71,Out of state,off-campus,Car,32.0,4.0,4.0
+419,23340,11/26/1989,1-Aug-2011,08-May-2017,4.0,AstronomyÂ ,Female,Athlete,1.6372839999999997,61.13071640464117,Nonsmoker,6.177,0:08:11,75.05,88.79,85.69,83.22,1.0,off-campus,Car,19.0,4.0,8.0
+420,24362,11/13/1989,1-Aug-2011,09-May-2016,4.0,0.0,Female,Non-athlete,1.8122899999999997,96.19798423311049,Nonsmoker,7.559,0:09:04,79.1,88.78,62.85,76.6,In state,off-campus,Car,22.0,6.0,8.0
+421,28328,9/26/1989,1-Aug-2011,08-May-2017,4.0,Elementary ed,Male,Non-athlete,1.601978,86.89932958967987,Nonsmoker,7.095,0:06:12,1.0,89.0,72.63,77.47,In state,off-campus,Car,15.0,2.0,3.0
+422,30139,9/4/1989,1-Aug-2011,08-May-2017,4.0,Accounting,Male,Athlete,1.9349720000000001,94.5514419718591,Nonsmoker,5.115,0:07:19,86.22,79.21,68.17,72.81,In state,off-campus,Bike,13.0,3.0,14.0
+423,32380,8/8/1989,1-Aug-2011,08-May-2017,4.0,I haven't picked one yet,Male,Non-athlete,1.769618,86.08286235269571,Currentsmoker,8.527,0:07:45,1.0,73.03,65.42,86.18,In state,off-campus,Car,27.0,1.0,16.0
+424,35269,7/4/1989,1-Aug-2011,09-May-2016,4.0,0.0,Male,Athlete,1.81483,65.38088196605311,Nonsmoker,1.0,0:07:29,87.17,82.29,67.32,84.23,In state,off-campus,Car,24.0,4.0,11.0
+425,38872,5/19/1989,1-Aug-2011,08-May-2017,4.0,commm studies,Female,Non-athlete,1.52908,83.0664695049487,Currentsmoker,6.111,0:09:28,83.49,84.04,76.01,87.54,In state,off-campus,Car,32.0,4.0,23.0
+426,39413,5/12/1989,1-Aug-2011,08-May-2017,4.0,0.0,Female,Athlete,1.7124679999999999,0.45359290943563974,Nonsmoker,4.927,0:05:35,89.35,71.08,59.71,77.94,In state,off-campus,Car,32.0,1.0,1.0
+427,45256,3/3/1989,1-Aug-2011,09-May-2016,4.0,Interior design,Female,Athlete,0.0254,79.29711242753854,Currentsmoker,6.486,0:07:11,84.96,90.88,59.03,79.53,In state,on-campus,Car,31.0,7.0,1.0
+428,48529,1/21/1989,1-Aug-2011,08-May-2017,4.0,Science,Female,Non-athlete,1.709674,69.99392185501357,Nonsmoker,7.819,0:11:35,84.16,80.63,64.3,83.45,Out of state,off-campus,Car,27.0,0.0,1.0
+429,36563,6/17/1988,1-Aug-2011,09-May-2016,4.0,Marketing,Female,Non-athlete,1.6830040000000002,68.80097250319784,Nonsmoker,7.036,0:10:59,83.53,80.02,66.33,84.21,In state,off-campus,Car,27.0,5.0,12.0
+430,34021,7/18/1987,1-Aug-2011,08-May-2017,4.0,accounting,Female,Non-athlete,0.0254,0.45359290943563974,Nonsmoker,1.0,0:12:55,87.72,84.99,65.31,1.0,In state,off-campus,Walk,18.0,1.0,10.0
+431,40697,4/29/1987,1-Aug-2011,09-May-2016,4.0,0.0,Male,Non-athlete,1.7399,59.83797661274959,Nonsmoker,9.125,0:08:33,91.01,86.87,70.25,82.67,In state,off-campus,Car,26.0,6.0,15.0
+432,34272,1.0,1-Aug-2011,09-May-2016,4.0,nursing,Male,Athlete,1.7297399999999998,58.99882973029366,Nonsmoker,1.0,1.0,81.05,85.76,58.16,81.87,1.0,off-campus,Car,29.0,6.0,10.0
+433,33628,1.0,1-Aug-2011,08-May-2017,4.0,Nursing,Female,Athlete,1.7594579999999997,71.3320209378487,Currentsmoker,6.905,0:08:26,75.59,85.97,66.84,79.35,In state,off-campus,Walk,14.0,4.0,10.0
+434,39298,1.0,1-Aug-2011,08-May-2017,4.0,0.0,Female,Athlete,1.693672,69.095807894331,pastsmoker,6.233,0:07:13,75.65,77.24,60.24,75.23,In state,off-campus,Car,27.0,2.0,10.0
